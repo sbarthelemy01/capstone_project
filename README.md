@@ -13,3 +13,5 @@
 * Solution: Data would be presented in the form of an info map. Users can view statistics for each country by hovering over the country of their choice. If the user may need more information about a certain issue in a country, the country selected will contain links to direct the user to different websites.
 
 
+# Capstone Step 2 - Project Proposal
+I will focus on the InfoMap idea. Here is the [link](https://drive.google.com/file/d/1NbVWbb327IHjFWf0NgBD8SJ0ewIAlYEP/view?usp=sharing) to the second step of the project.
