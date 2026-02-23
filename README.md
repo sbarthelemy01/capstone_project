@@ -16,7 +16,14 @@
 # Capstone Step 2 - Project Proposal
 I will focus on the InfoMap idea. Here is the [link](https://drive.google.com/file/d/1NbVWbb327IHjFWf0NgBD8SJ0ewIAlYEP/view?usp=sharing) to the second step of the project.
 
+
 # Capstone Step 3 - Frontend Specifications
 Below is a breakdown of the InfoMap user flow. The application enables users to search for and select countries filtered by specific global issues. Additionally, the app includes integrated checks for account registration and profile management.
 
-![User Flow Diagram](https://drive.google.com/file/d/1bbWp6NE1OLK_4mVO0hNi1vLlDtGkkDpi/view?usp=sharing)
+<img width="800" height="529" alt="capstone_step3" src="https://github.com/user-attachments/assets/56267dca-54a1-416c-bf52-170f400fe0ea" />
+
+
+# Capstone Step 4 - Database Model
+Attached is a database model that demonstrates the relationships between the tables. The most important models are “Countries” and “Global_Issues.” A country can have multiple challenges that are considered global concerns. For the selected global issue, statistical information will be available for many countries. The “Users” table contains information about the current registered users within the application. It stores their names, usernames, and passwords. Users can access data and add multiple bookmarks to their “Saved_Searches.”
+
+<img width="538" height="700" alt="capstone_step4" src="https://github.com/user-attachments/assets/c0febf79-8b6e-4c32-aafa-4879bd79c030" />
