@@ -15,3 +15,8 @@
 
 # Capstone Step 2 - Project Proposal
 I will focus on the InfoMap idea. Here is the [link](https://drive.google.com/file/d/1NbVWbb327IHjFWf0NgBD8SJ0ewIAlYEP/view?usp=sharing) to the second step of the project.
+
+# Capstone Step 3 - Frontend Specifications
+Below is a breakdown of the InfoMap user flow. The application enables users to search for and select countries filtered by specific global issues. Additionally, the app includes integrated checks for account registration and profile management.
+
+![User Flow Diagram](https://drive.google.com/file/d/1bbWp6NE1OLK_4mVO0hNi1vLlDtGkkDpi/view?usp=sharing)
