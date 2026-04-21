@@ -27,3 +27,8 @@ Below is a breakdown of the InfoMap user flow. The application enables users to 
 Attached is a database model that demonstrates the relationships between the tables. The most important models are “Countries” and “Global_Issues.” A country can have multiple challenges that are considered global concerns. For the selected global issue, statistical information will be available for many countries. The “Users” table contains information about the current registered users within the application. It stores their names, usernames, and passwords. Users can access data and add multiple bookmarks to their “Saved_Searches.”
 
 <img width="538" height="700" alt="capstone_step4" src="https://github.com/user-attachments/assets/c0febf79-8b6e-4c32-aafa-4879bd79c030" />
+
+
+# Capstone Step 5 - API Specifications
+This [link](https://docs.google.com/document/d/1UJ3Dpe7I6gqEAJRZn6enyBcjKhXU8V3wl-vPal-F8AQ/edit?usp=sharing) shows an outline of the API endpoints for this application, which includes routes for the login and registration pages, the user's profile, and routes for navigating the infomap.
+
