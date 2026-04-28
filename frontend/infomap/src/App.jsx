@@ -1,14 +1,31 @@
-//import { useState } from 'react'
+import { useState } from 'react';
 import Map from './Map';
+import Dropdown from './Dropdown';
+import Footer from './Footer';
+
 import './App.css';
 
 function App() {
 
+  //using state to track currently selected issue
+  const [activeIssue, setActiveIssue] = useState('Climate Change');
+
   return (
     <>
-      <Map/>
+      <Dropdown activeIssue={activeIssue} setActiveIssue={setActiveIssue} />
+      <Map activeIssue={activeIssue} />
+      <Footer />
     </>
   )
 }
 
 export default App
+
+
+/*
+Add a footer to indicate who worked on project, what it’s about, 
+have icons (ex: Made by Samantha Barthelemy, link to GitHub)
+
+
+fix react tooltip so the pop up follows the mouse until the pointer leaves the country selected
+*/
