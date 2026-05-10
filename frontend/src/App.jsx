@@ -29,3 +29,16 @@ have icons (ex: Made by Samantha Barthelemy, link to GitHub)
 
 fix react tooltip so the pop up follows the mouse until the pointer leaves the country selected
 */
+
+
+/* 
+Climate Change: main factor is greenhouse gas emissions (include measurement)
+
+* surface temperature changes
+* severe weather patterns
+* human health impacts
+* environmental impacts
+* climate policies
+
+
+*/
