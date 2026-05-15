@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { Tooltip } from "react-tooltip"; 
 
@@ -15,10 +15,16 @@ const formatHeader = (key) => {
       .join(' ');
 };
 
-export default function MapChart({ activeIssue }) {
+export default function Map({ activeIssue }) {
   const [tooltipData, setTooltipData] = useState(null);
   const [selectedCountry, setSelectedCountry] = useState(null);
   
+  useEffect(() => { //useEffect is listening to activeIssue, runs every time activeIssue changes
+    setSelectedCountry(null); // removes previously selected country (highlight is cleared)
+    setTooltipData(null);     // clears data in tooltip
+  }, [activeIssue]);
+
+
   const issueColors = {
     "Climate Change": "#228b22",
     "Food Insecurity": "#ffdb58",
