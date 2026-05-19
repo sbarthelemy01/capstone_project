@@ -390,7 +390,7 @@
     "gender_based_violence": "The DRC has been plagued by horrific levels of conflict-related sexual violence, used systematically to terrorize communities. Domestic violence is also pervasive and largely ignored by an overwhelmed and frequently corrupt judicial system."
   },
   "178": {
-    "country_name": "Congo",
+    "country_name": "Congo (Congo-Brazzaville)",
     "population_2025": "6,400,000",
     "gender_equality_summary": "The Republic of the Congo has integrated gender equality into its constitution and established ministries dedicated to women's advancement. The state explicitly prohibits discrimination legally and has passed laws to combat gender-based violence. However, the application of these laws is inconsistent, and customary practices continue to heavily influence family and social dynamics. Economic disparities are stark, with women largely relegated to the informal agricultural sector despite legal protections.",
     "equal_rights_opportunities": "Statutory laws promote equality, but the co-existence of customary laws often disadvantages women in inheritance and land rights. Women's representation in the national legislature and executive government remains persistently low.",
@@ -450,7 +450,7 @@
     "gender_based_violence": "The state has criminalized all forms of gender-based violence and established specialized police units. While reporting rates have increased due to better public awareness, support services and rapid judicial responses require further strengthening."
   },
   "203": {
-    "country_name": "Czech Republic",
+    "country_name": "Czech Republic (Czechia)",
     "population_2025": "10,500,000",
     "gender_equality_summary": "The Czech Republic features high female labor force participation and excellent educational parity. However, the country has one of the highest gender pay gaps in the European Union. This is largely driven by a system of very long parental leaves that are overwhelmingly taken by mothers, severely impacting their long-term career progression and pension accumulation. Traditional views on gender roles, emphasizing women as primary caregivers, remain prevalent.",
     "equal_rights_opportunities": "EU-aligned legislation guarantees equal rights and non-discrimination in the workplace. Yet, the political representation of women remains relatively low, and there are no legislated gender quotas for elections or corporate boards.",
@@ -1100,7 +1100,7 @@
     "gender_based_violence": "Mexico faces an epidemic of gender-based violence. The rates of femicide and sexual assault are critically high, and the justice system is characterized by profound impunity. This crisis has sparked massive, ongoing feminist protests across the country."
   },
   "583": {
-    "country_name": "Micronesia (Federated States of)",
+    "country_name": "Micronesia",
     "population_2025": "115,000",
     "gender_equality_summary": "Micronesia launched its National Gender Equality Policy (2025–2030) to address deep-seated social barriers across its four states. While matrilineal traditions in some islands grant women cultural respect, modern political and economic spheres remain male-dominated. High vulnerability to climate change significantly impacts women, who often bear the responsibility for household food security and water management.",
     "equal_rights_opportunities": "Constitutional protections exist, but traditional customs frequently dictate social roles. Women are significantly underrepresented in the national congress, though the 2025 policy specifically targets increasing female participation in leadership and decision-making roles.",
@@ -1259,6 +1259,16 @@
     "education_access": "There is a sharp North-South divide in education. In the South, gender parity is close; in the North, millions of 'out-of-school' girls are affected by poverty, early marriage, and security threats from extremist groups like Boko Haram.",
     "gender_based_violence": "Violence against women is a national emergency. Issues range from domestic abuse and sexual assault to female genital mutilation. While the VAPP (Violence Against Persons Prohibition) Act has been adopted by many states, its enforcement remains inconsistent and underfunded."
   },
+  "408": {
+    "country_name": "North Korea",
+    "population_2025": "26,200,000",
+    "gender_equality_summary": "While the North Korean constitution officially guarantees equal rights for men and women, deeply entrenched patriarchal norms continue to dictate society. Women have paradoxically become the primary breadwinners through the informal market economy (jangmadang) due to state failures, yet they hold very little political power. The state strictly dictates gender roles, emphasizing women's duties as mothers and loyal socialists. Consequently, true gender equality remains a superficial state narrative rather than a lived reality.",
+    "equal_rights_opportunities": "The socialist legal framework technically prohibits discrimination, but traditional Confucian values heavily limit women's upward mobility in state and military hierarchies. Women are largely excluded from the highest echelons of the ruling Workers' Party of Korea and the powerful military apparatus.",
+    "economic_equality": "Women dominate the thriving informal market sector because men are strictly required to work in low-paying, state-assigned industrial jobs. Despite earning the massive majority of household income, women face widespread extortion and lack any formal economic or labor protections.",
+    "health_access": "The collapse of the state healthcare system disproportionately affects women, leading to high maternal mortality rates and chronic malnutrition among pregnant mothers. Access to basic reproductive healthcare and sanitary products remains severely limited outside the elite capital of Pyongyang.",
+    "education_access": "Basic primary and secondary education is compulsory and nominally equal for both boys and girls. However, higher education and elite university placements heavily favor men, as women are subtly encouraged to focus on domestic roles and early marriage.",
+    "gender_based_violence": "Gender-based violence is deeply pervasive and rarely prosecuted, with domestic abuse widely considered a private family matter rather than a crime. Women in the military and informal markets frequently face sexual coercion and abuse from male officials who operate with total impunity."
+  },
   "807": {
     "country_name": "North Macedonia",
     "population_2025": "2,100,000",
@@ -1308,16 +1318,6 @@
     "health_access": "Healthcare is accessible, but specialized reproductive services often require travel to larger regional hubs. The adolescent fertility rate remains a point of concern for public health officials.",
     "education_access": "Palau has achieved near-universal literacy. Girls consistently perform well in primary and secondary education, though the share of female graduates in STEM fields is still trailing behind regional peers.",
     "gender_based_violence": "GBV is an often-underreported issue. Recent 2026 data indicates that while legal mechanisms exist, social stigma in small-knit communities often prevents survivors from pursuing formal justice."
-  },
-  "275": {
-    "country_name": "Palestine",
-    "population_2025": "5,500,000",
-    "gender_equality_summary": "The situation for women in Palestine in 2025–2026 is defined by extreme vulnerability due to ongoing conflict and occupation. Systemic displacement and the destruction of infrastructure have created a humanitarian crisis where women face acute risks of gender-based violence, a total collapse of maternal health services, and severe economic disenfranchisement.",
-    "equal_rights_opportunities": "Legal rights are fragmented between civil codes, religious laws, and military orders. Women's leadership is vibrant in grassroots movements but suppressed by the lack of a stable, unified political process and the overarching security crisis.",
-    "economic_equality": "Economic life is characterized by extreme precarity. Female labor force participation is among the lowest in the world, further stifled by movement restrictions and the targeted destruction of female-owned small businesses in conflict zones.",
-    "health_access": "Health infrastructure is in a state of catastrophe. By 2026, reports highlight a drastic rise in maternal and neonatal mortality due to the lack of safe birthing facilities, clean water, and basic medical supplies.",
-    "education_access": "Historically, Palestinians have valued education highly, achieving near parity in literacy. However, the current conflict has led to massive school closures and the destruction of universities, disproportionately affecting girls' long-term prospects.",
-    "gender_based_violence": "Reports from UN experts in 2026 describe sexual and gender-based violence as a tool of occupation and control. Domestic violence also remains high as a result of trauma, displacement, and the breakdown of social protection systems."
   },
   "591": {
     "country_name": "Panama",
@@ -1599,6 +1599,16 @@
     "education_access": "The country has achieved near-total equality in primary and secondary education. The 2026 priority is ensuring that female graduates from tertiary institutions are mentored into high-demand leadership roles to break the 'widening gap' after graduation.",
     "gender_based_violence": "GBV is described as a 'shadow pandemic' in South Africa. Despite strong laws, 2026 reports show that parity in politics has not yet translated into safety for women in daily life, leading to massive grassroots advocacy for more effective police and judicial intervention."
   },
+  "410": {
+    "country_name": "South Korea",
+    "population_2025": "51,700,000",
+    "gender_equality_summary": "South Korea boasts a highly advanced, hyper-modern economy, yet it consistently ranks at the bottom of the OECD for gender equality metrics. A deep-seated cultural patriarchy clashes intensely with a highly educated female workforce and a vocal, modern feminist movement. Recent political climates have seen a significant anti-feminist backlash among young men, leading to highly polarized national debates over gender policies. The struggle for equality is currently defined by the intense tension between rapid economic development and rigid, traditional gender roles.",
+    "equal_rights_opportunities": "While women possess full legal rights and equal constitutional protections, systemic glass ceilings heavily restrict their representation in corporate boardrooms and the national assembly. The intense societal pressure to balance grueling work hours with traditional caregiving duties forces many women to abandon their careers entirely.",
+    "economic_equality": "South Korea consistently maintains the widest gender pay gap in the developed world, with women earning significantly less than men for comparable work. The labor market is heavily dualized, with a massive percentage of women pushed into precarious, non-regular, or part-time employment after having children.",
+    "health_access": "Women have universal, high-quality access to one of the best healthcare systems in the world, including excellent maternal and reproductive care. However, societal stigma continues to heavily surround women seeking mental health support or out-of-wedlock reproductive services.",
+    "education_access": "South Korean women are among the most highly educated in the world, often outperforming men in university enrollment and academic achievement. Despite this massive educational parity, these elite qualifications frequently fail to translate into equal career advancement or leadership opportunities.",
+    "gender_based_violence": "The nation has seen massive public outcries over digital sex crimes, such as the widespread epidemic of illicit spy-cams (molka) and deepfake pornography explicitly targeting women. While laws have been tightened in recent years, activists heavily criticize the judicial system for frequently issuing lenient sentences to male perpetrators."
+  },
   "728": {
     "country_name": "South Sudan",
     "population_2025": "11,500,000",
@@ -1628,6 +1638,16 @@
     "health_access": "Health is a major success, with a maternal mortality ratio of just 18 per 100,000—far below the regional average. Universal healthcare ensures that almost all births are attended by skilled professionals, a standard Sri Lanka has maintained through its recent economic crises.",
     "education_access": "Sri Lanka has achieved near-total parity in education, with female literacy at 93%. Girls actually outperform boys in secondary school completion (93% vs 91%). The current challenge is translating this educational success into high-quality professional employment.",
     "gender_based_violence": "While reported rates of intimate partner violence (17.2%) are lower than the global average, underreporting due to social stigma is common. In 2026, the first 'Gender Equality Profile' launch in Colombo emphasized the need for better judicial response and survivor-centric services."
+  },
+  "275": {
+    "country_name": "State of Palestine",
+    "population_2025": "5,500,000",
+    "gender_equality_summary": "The situation for women in Palestine in 2025–2026 is defined by extreme vulnerability due to ongoing conflict and occupation. Systemic displacement and the destruction of infrastructure have created a humanitarian crisis where women face acute risks of gender-based violence, a total collapse of maternal health services, and severe economic disenfranchisement.",
+    "equal_rights_opportunities": "Legal rights are fragmented between civil codes, religious laws, and military orders. Women's leadership is vibrant in grassroots movements but suppressed by the lack of a stable, unified political process and the overarching security crisis.",
+    "economic_equality": "Economic life is characterized by extreme precarity. Female labor force participation is among the lowest in the world, further stifled by movement restrictions and the targeted destruction of female-owned small businesses in conflict zones.",
+    "health_access": "Health infrastructure is in a state of catastrophe. By 2026, reports highlight a drastic rise in maternal and neonatal mortality due to the lack of safe birthing facilities, clean water, and basic medical supplies.",
+    "education_access": "Historically, Palestinians have valued education highly, achieving near parity in literacy. However, the current conflict has led to massive school closures and the destruction of universities, disproportionately affecting girls' long-term prospects.",
+    "gender_based_violence": "Reports from UN experts in 2026 describe sexual and gender-based violence as a tool of occupation and control. Domestic violence also remains high as a result of trauma, displacement, and the breakdown of social protection systems."
   },
   "729": {
     "country_name": "Sudan",
@@ -1678,16 +1698,6 @@
     "health_access": "Healthcare infrastructure is shattered. Maternal mortality and lack of reproductive health services are critical issues in displacement camps like al-Hawl. In 2026, international aid is the only reliable source of health services for millions of Syrian women.",
     "education_access": "A generation of girls has had their education disrupted by a decade of war. While schools are reopening in stabilized areas, poverty-driven child marriage and the need for child labor are major obstacles to girls returning to secondary education in 2026.",
     "gender_based_violence": "Violence against women, including kidnapping and sexual assault, remains a tool of sectarian and localized conflict. A UN probe in 2026 highlighted a 'culture of impunity' regarding crimes against minority women, emphasizing that durable peace is impossible without addressing conflict-related sexual violence."
-  },
-  "158": {
-    "country_name": "Taiwan",
-    "population_2025": "23,300,000",
-    "gender_equality_summary": "Taiwan is widely considered the most gender-progressive society in Asia as of 2026. With a female Vice President and the highest proportion of female lawmakers in the region (41.6%), gender equality is a core pillar of Taiwan's democratic identity and international standing.",
-    "equal_rights_opportunities": "Taiwan's Legislative Yuan sets a regional record with over 40% female representation, far exceeding the global average of 27.5%. The legal system is based on a secular constitution that provides robust protections for women's rights, independent of religious or traditional dogma.",
-    "economic_equality": "The female labor force participation rate is healthy and stable, around 51-53%. In 2025, the government launched new initiatives to close the 15% wage gap, focusing on pay transparency and encouraging women to enter the high-paying semiconductor and AI sectors.",
-    "health_access": "Taiwan’s National Health Insurance (NHI) provides universal, high-quality coverage. Maternal mortality is exceptionally low, and reproductive health services, including IVF and family planning, are widely accessible and state-supported.",
-    "education_access": "Education parity is fully achieved. Women outnumber men in many higher education tracks, and the 2026 'Digital Equity' program is specifically designed to ensure women and girls lead Taiwan’s transition to a green and AI-driven economy.",
-    "gender_based_violence": "Taiwan has strong legislation regarding sexual harassment and domestic violence, following a major 'Me Too' movement in recent years. In 2026, the focus is on 'Tech-Facilitated GBV,' with new laws aimed at prosecuting the non-consensual distribution of intimate images."
   },
   "762": {
     "country_name": "Tajikistan",
@@ -1770,7 +1780,7 @@
     "gender_based_violence": "Tunisia's Law 2017-58 remains the regional gold standard for combating violence against women. In 2026, the state is focused on the 'Institutionalization of Support,' training 22 women-led organizations to manage long-term survivor shelters."
   },
   "792": {
-    "country_name": "Turkey",
+    "country_name": "Türkiye",
     "population_2025": "86,000,000",
     "gender_equality_summary": "Turkey possesses a nearly perfect 50/50 gender balance in its population as of late 2025. However, the 2021 withdrawal from the Istanbul Convention continues to be a central point of social and political friction in 2026, with women's rights organizations advocating for a return to international protection standards.",
     "equal_rights_opportunities": "Turkish women have full legal rights under the Constitution, yet political representation remains below the European average. In 2026, the focus is on provincial-level leadership, where women are increasingly challenging traditional power structures in major cities like Istanbul and Ankara.",
@@ -1878,6 +1888,16 @@
     "health_access": "Geographic isolation makes healthcare delivery difficult. In 2026, 'Drone-Delivered Health' is being used to get reproductive health supplies and vaccines to women on the outer islands who are often cut off during cyclone season.",
     "education_access": "Primary school enrollment is balanced, but the secondary school 'gender gap' widens in rural areas. In 2026, the 'Island Scholars' program is providing stipends to families to keep their daughters in school through graduation.",
     "gender_based_violence": "Violence against women is extremely high, with roughly 60% of women experiencing it. In 2026, the 'Family Protection Act' is being supported by mobile courts that travel to remote islands to provide survivors with legal protection orders."
+  },
+  "336": {
+    "country_name": "Vatican City",
+    "population_2025": "800",
+    "gender_equality_summary": "Vatican City presents a globally unique situation regarding gender equality due to its status as the spiritual and administrative center of the Roman Catholic Church. The population is overwhelmingly male, comprising clergy and the Swiss Guard, with women representing only a tiny fraction of residents and employees. Because church doctrine restricts the priesthood to men, the absolute highest echelons of governance and authority are exclusively male by definition. However, recent years under Pope Francis have seen unprecedented, albeit gradual, moves to include women in mid-to-high level administrative and consultative roles.",
+    "equal_rights_opportunities": "Fundamental structural inequality is legally and doctrinally enshrined, as women cannot be ordained and therefore cannot vote in papal conclaves or hold top executive state offices. However, recent historical reforms have allowed women to vote in the Synod of Bishops for the first time, signaling slow institutional shifts.",
+    "economic_equality": "Lay women employed by the Vatican theoretically receive equal pay for equal work within the state's specialized administrative and media departments. However, because all senior leadership roles are reserved for ordained male clergy, the massive majority of the state's wealth and economic authority remains entirely in male hands.",
+    "health_access": "The microstate provides high-quality healthcare coverage to all its employees and their families through its dedicated medical facilities. However, the state strictly prohibits and does not provide access to modern reproductive healthcare services, such as contraception or abortion, in accordance with strict Catholic doctrine.",
+    "education_access": "While the Vatican does not host a traditional public school system for children, the broader Holy See oversees numerous elite pontifical universities in Rome. Historically dominated by male clergy, these prestigious academic institutions are increasingly opening their theology and canon law programs to lay women and religious sisters.",
+    "gender_based_violence": "Given the tiny, heavily monitored nature of the enclave, conventional domestic violence or street crime against women is virtually non-existent within the city walls. However, the broader global institution it commands has recently faced severe reckoning and internal investigations regarding the historical sexual abuse of nuns by male clerics."
   },
   "862": {
     "country_name": "Venezuela",

@@ -329,16 +329,16 @@
     "import_dependency": "While completely self-sufficient in rice, the nation heavily imports deeply vital specialized agricultural machinery and essential chemical inputs. The domestic market also relies on bordering nations for totally continuous supplies of highly specific processed food items.",
     "risk_factors": "The deeply existential threat of climate change totally manifests through completely catastrophic, crop-destroying floods and intensely prolonged regional droughts. Furthermore, aggressive upstream dam construction heavily threatens the absolutely vital hydrological cycles of the completely essential Mekong River basin."
   },
-  "140": {
-    "country_name": "Central African Republic",
-    "population_2025": 5800000,
-    "food_insecurity_summary": "The Central African Republic faces a catastrophic food security crisis in 2025, driven by chronic instability and degraded infrastructure. Widespread internal displacement severely prevents communities from maintaining essential subsistence farming activities. Consequently, a massive portion of the population relies heavily on strained international humanitarian aid for basic survival.",
-    "prevalence_food_insecurity": "Approximately 50% of the population experiences severe acute food insecurity on a daily basis. Devastating rates of childhood malnutrition represent an ongoing, severe public health emergency across nearly all prefectures.",
-    "conflict": "The nation remains deeply entrenched in a lethal, multifaceted armed conflict involving numerous decentralized rebel factions. This pervasive violence constantly disrupts vital agricultural planting seasons and paralyzes regional food supply chains.",
-    "political_instability": "The central government exercises extremely limited administrative control outside the primary capital city. This profound lack of state authority severely impedes the successful delivery of international agricultural development programs.",
-    "food_prices": "Localized food prices are catastrophically high, artificially inflated by massive supply shortages and illegal militant taxation on transit routes. The complete collapse of domestic purchasing power renders imported basic staples entirely inaccessible for the average displaced citizen.",
-    "import_dependency": "The nation is overwhelmingly dependent on coordinated international food aid to prevent widespread famine. Commercial imports of vital cereals are heavily restricted by dangerous, heavily degraded cross-border transit corridors.",
-    "risk_factors": "The unchecked proliferation of extreme militia violence represents an existential threat to national survival and food access. Furthermore, massive logistical barriers prevent the effective deployment of climate-resilient agricultural technologies to deeply vulnerable rural zones."
+  "120": {
+    "country_name": "Cameroon",
+    "population_2025": 30000000,
+    "food_insecurity_summary": "Cameroon navigates a highly fragmented, deeply strained food security landscape in 2025, heavily defined by profound regional disparities. While the southern provinces possess massive, highly productive agricultural potential, deeply entrenched logistical bottlenecks severely limit national distribution. Conversely, highly lethal regional insurgencies in the Far North completely paralyze essential subsistence farming activities. This profound internal instability forces massive populations to rely heavily on strained international food aid.",
+    "prevalence_food_insecurity": "Approximately 26% of the population faces moderate to severe food insecurity, heavily concentrated in completely destabilized border regions. Catastrophic rates of acute nutritional deprivation represent an entirely massive public health emergency among displaced communities.",
+    "conflict": "The nation battles lethal, prolonged armed conflicts in both its remote northern regions and western anglophone provinces. This absolute pervasive violence completely destroys critical agricultural infrastructure and prevents essential seasonal crop cultivation.",
+    "political_instability": "The highly centralized government struggles to project effective administrative authority into profoundly restive borderlands. This severe bureaucratic limitation entirely prevents the successful implementation of highly critical national agricultural programs.",
+    "food_prices": "Localized food prices have skyrocketed in besieged regions due to massive, artificially created supply chain blockades. The devastating collapse of local rural economies renders highly essential imported staples completely unaffordable for deeply vulnerable citizens.",
+    "import_dependency": "While possessing immense agricultural potential, the nation imports massive quantities of refined rice and specialized grain products. This structural dependency heavily drains vital foreign currency reserves needed for broader economic development.",
+    "risk_factors": "The unchecked proliferation of highly lethal regional insurgencies threatens to permanently destroy highly vital agricultural zones. Furthermore, accelerating climate change absolutely drives extreme northern desertification, completely eliminating highly critical arable land."
   },
   "124": {
     "country_name": "Canada",
@@ -350,6 +350,28 @@
     "food_prices": "Food inflation stabilized around 3% in 2025, heavily influenced by successful central bank monetary interventions. While overall price growth has cooled, the retail cost of imported fresh produce during winter months remains a significant household burden.",
     "import_dependency": "While Canada is a massive net exporter of total caloric value, it imports significant volumes of fresh fruits and vegetables. The nation's deep integration with the United States market ensures a highly secure, diverse year-round food supply.",
     "risk_factors": "Increasingly severe, climate-driven wildfires continually threaten to devastate critical agricultural infrastructure and vital rail transport networks. Furthermore, the massive agricultural sector relies heavily on uninterrupted imports of specialized chemical fertilizers."
+  },
+  "140": {
+    "country_name": "Central African Republic",
+    "population_2025": 5800000,
+    "food_insecurity_summary": "The Central African Republic faces a catastrophic food security crisis in 2025, driven by chronic instability and degraded infrastructure. Widespread internal displacement severely prevents communities from maintaining essential subsistence farming activities. Consequently, a massive portion of the population relies heavily on strained international humanitarian aid for basic survival.",
+    "prevalence_food_insecurity": "Approximately 50% of the population experiences severe acute food insecurity on a daily basis. Devastating rates of childhood malnutrition represent an ongoing, severe public health emergency across nearly all prefectures.",
+    "conflict": "The nation remains deeply entrenched in a lethal, multifaceted armed conflict involving numerous decentralized rebel factions. This pervasive violence constantly disrupts vital agricultural planting seasons and paralyzes regional food supply chains.",
+    "political_instability": "The central government exercises extremely limited administrative control outside the primary capital city. This profound lack of state authority severely impedes the successful delivery of international agricultural development programs.",
+    "food_prices": "Localized food prices are catastrophically high, artificially inflated by massive supply shortages and illegal militant taxation on transit routes. The complete collapse of domestic purchasing power renders imported basic staples entirely inaccessible for the average displaced citizen.",
+    "import_dependency": "The nation is overwhelmingly dependent on coordinated international food aid to prevent widespread famine. Commercial imports of vital cereals are heavily restricted by dangerous, heavily degraded cross-border transit corridors.",
+    "risk_factors": "The unchecked proliferation of extreme militia violence represents an existential threat to national survival and food access. Furthermore, massive logistical barriers prevent the effective deployment of climate-resilient agricultural technologies to deeply vulnerable rural zones."
+  },
+  "148": {
+    "country_name": "Chad",
+    "population_2025": "19,300,000",
+    "food_insecurity_summary": "Chad is facing a critical food security crisis in 2024-2025 due to a devastating combination of climate shocks, economic hardship, and massive refugee influxes from neighboring conflicts. Millions of citizens are in desperate need of urgent humanitarian food assistance to avoid severe malnutrition. The situation has been significantly aggravated by poor agricultural output in recent harvest seasons, heavily straining local resources.",
+    "prevalence_of_food_insecurity": "The prevalence of moderate and severe food insecurity remains exceptionally high across Chad, affecting over one-third of the total population. In specific rural zones and crowded refugee camps, severe food insecurity threatens large swathes of highly vulnerable families.",
+    "conflict": "Persistent localized violence and intense cross-border tensions from neighboring Sudan continue to drastically disrupt local livelihoods and farming. This continuous instability severely restricts the safe movement of goods and agricultural production across major regions.",
+    "political_instability": "Chad's recent political transitions and internal governance challenges have created an unstable environment that hampers long-term economic planning. This volatility frequently interferes with the government's ability to efficiently distribute vital humanitarian aid to isolated rural populations.",
+    "food_prices": "Food prices have soared to unprecedented levels throughout 2024 and 2025, heavily driven by border closures and high transportation fuel costs. This intense inflationary pressure has stripped away the purchasing power of average households, making basic staples unaffordable.",
+    "import_dependency": "Chad relies heavily on imports for critical commodities, leaving its domestic markets highly vulnerable to global supply chain shocks. Disrupted trade routes have further exacerbated domestic shortages of imported agricultural inputs like fertilizers and seeds.",
+    "risk_factors": "Chief risk factors include escalating climate variability, such as erratic rainfall and prolonged droughts, which routinely devastate vital crops. Additionally, the ongoing regional humanitarian crisis places an overwhelming, unsustainable burden on Chad's fragile infrastructure."
   },
   "152": {
     "country_name": "Chile",
@@ -372,17 +394,6 @@
     "food_prices": "Food prices are strictly managed through heavily centralized state strategic reserves, preventing extreme consumer price spikes. Inflation on essential staples remains exceptionally low, successfully insulating the massive population from highly volatile global commodity markets.",
     "import_dependency": "While technically self-sufficient in core staples, China imports staggering quantities of soybeans and specialized feed grains. This massive dependency is critical for sustaining the nation's highly intensive domestic livestock industry.",
     "risk_factors": "Rapidly intensifying climate extremes, particularly catastrophic regional flooding and profound northern droughts, massively threaten essential harvest yields. Furthermore, geopolitical trade tensions continually threaten vital supply lines for heavily imported specialized agricultural technologies."
-  },
-  "120": {
-    "country_name": "Cameroon",
-    "population_2025": 30000000,
-    "food_insecurity_summary": "Cameroon navigates a highly fragmented, deeply strained food security landscape in 2025, heavily defined by profound regional disparities. While the southern provinces possess massive, highly productive agricultural potential, deeply entrenched logistical bottlenecks severely limit national distribution. Conversely, highly lethal regional insurgencies in the Far North completely paralyze essential subsistence farming activities. This profound internal instability forces massive populations to rely heavily on strained international food aid.",
-    "prevalence_food_insecurity": "Approximately 26% of the population faces moderate to severe food insecurity, heavily concentrated in completely destabilized border regions. Catastrophic rates of acute nutritional deprivation represent an entirely massive public health emergency among displaced communities.",
-    "conflict": "The nation battles lethal, prolonged armed conflicts in both its remote northern regions and western anglophone provinces. This absolute pervasive violence completely destroys critical agricultural infrastructure and prevents essential seasonal crop cultivation.",
-    "political_instability": "The highly centralized government struggles to project effective administrative authority into profoundly restive borderlands. This severe bureaucratic limitation entirely prevents the successful implementation of highly critical national agricultural programs.",
-    "food_prices": "Localized food prices have skyrocketed in besieged regions due to massive, artificially created supply chain blockades. The devastating collapse of local rural economies renders highly essential imported staples completely unaffordable for deeply vulnerable citizens.",
-    "import_dependency": "While possessing immense agricultural potential, the nation imports massive quantities of refined rice and specialized grain products. This structural dependency heavily drains vital foreign currency reserves needed for broader economic development.",
-    "risk_factors": "The unchecked proliferation of highly lethal regional insurgencies threatens to permanently destroy highly vital agricultural zones. Furthermore, accelerating climate change absolutely drives extreme northern desertification, completely eliminating highly critical arable land."
   },
   "170": {
     "country_name": "Colombia",
@@ -428,17 +439,6 @@
     "import_dependency": "Moderate (Volume) to High (Value); the country imports significant amounts of wheat and rice for urban consumption.",
     "risk_factors": "Escalating armed conflict, internal displacement, and the decay of rural-to-urban logistics networks."
   },
-  "184": {
-    "country_name": "Cook Islands",
-    "population_2025": "17,500",
-    "food_security_summary": "As of 2025, the Cook Islands maintain high food availability, though nutritional security is a concern due to a heavy reliance on imported processed foods. The high cost of shipping to remote islands makes fresh produce expensive, often leading to a diet high in imported sugar and fats. Domestic agriculture is primarily focused on subsistence and small-scale niche exports, leaving the general population vulnerable to global supply chain disruptions.",
-    "prevalence_food_insecurity": "Very Low (Acute); Moderate (Nutritional). Obesity and diet-related non-communicable diseases are more prevalent than caloric deficits.",
-    "conflict": "None.",
-    "political_instability": "Very Low; stable democratic governance with a focus on tourism and sustainable ocean management.",
-    "food_prices": "Very High; costs are determined by international freight rates and fuel prices for long-distance shipping.",
-    "import_dependency": "Critically High; imports over 90% of its food needs, particularly from New Zealand and Australia.",
-    "risk_factors": "Climate change (sea-level rise), extreme weather events (cyclones), and extreme sensitivity to global shipping costs."
-  },
   "188": {
     "country_name": "Costa Rica",
     "population_2025": "5,266,000",
@@ -483,17 +483,6 @@
     "import_dependency": "High; historically imports 70-80% of its food, but a lack of foreign exchange has severely limited import volumes in 2025.",
     "risk_factors": "Total energy grid failure, lack of fuel for transport, and extreme vulnerability to Atlantic hurricanes."
   },
-  "531": {
-    "country_name": "Curaçao",
-    "population_2025": "153,000",
-    "food_security_summary": "Curaçao is a high-income territory with high food availability but nearly total dependency on international imports. In 2024-2025, the local food system was affected by rising global shipping rates and the economic volatility of nearby Venezuela, which historically provided cheaper fresh produce. Efforts are underway to expand hydroponic farming on the island, but for now, food security is synonymous with the stability of maritime trade routes.",
-    "prevalence_food_insecurity": "Low (Acute); Moderate (Economic). Access is primarily limited by income inequality rather than availability.",
-    "conflict": "None.",
-    "political_instability": "Low; stable governance as a constituent country within the Kingdom of the Netherlands.",
-    "food_prices": "High; prices are significantly higher than the mainland due to the 'island premium' on shipping and storage.",
-    "import_dependency": "Critically High; imports nearly 100% of all food items.",
-    "risk_factors": "Maritime logistics disruptions, global fuel price spikes, and reliance on a narrow, tourism-based economic base."
-  },
   "196": {
     "country_name": "Cyprus",
     "population_2025": "1,347,000",
@@ -507,7 +496,7 @@
     "risk_factors": "Severe water scarcity/drought, regional maritime security in the Eastern Mediterranean, and energy price volatility."
   },
   "203": {
-    "country_name": "Czechia",
+    "country_name": "Czech Republic (Czechia)",
     "population_2025": "10,983,000",
     "food_insecurity_summary": "Czechia maintains robust food security in 2025, backed by a strong industrial agricultural sector and deep integration into the EU market. Following the inflationary shocks of 2023, food prices have largely stabilized in 2024 and 2025, although the cost of living remains a concern for low-income households. The country is a net exporter of cereals and sugar, which provides a significant buffer against global supply chain disruptions for these specific commodities.",
     "prevalence_food_insecurity": "Very Low; acute hunger is not a systemic issue, and food banks are well-supported to handle localized needs.",
@@ -1111,17 +1100,6 @@
     "import_dependency": "Very High; imports over 90% of its food, primarily from neighboring France, Germany, and Belgium.",
     "risk_factors": "External supply chain disruptions and the impact of climate change on the yields of its European trading partners."
   },
-  "446": {
-    "country_name": "Macao SAR (China)",
-    "population_2025": "688,900",
-    "food_insecurity_summary": "As of May 2026, Macao remains highly food secure, backed by its high GDP per capita and integration with mainland China's supply chains. However, the region's total reliance on imports—over 90% of which come from the mainland—leaves it sensitive to logistics costs and broader Chinese agricultural policy shifts. In mid-2026, the focus is on mitigating 'imported inflation' as global fertilizer and energy price spikes from regional conflicts begin to filter into the costs of fresh produce and meat supplied from across the border.",
-    "prevalence_food_insecurity": "Very Low; food access is universal, though vulnerable low-income elderly groups are monitored for nutritional quality.",
-    "conflict": "None.",
-    "political_instability": "Very Low; highly stable governance with strong fiscal reserves to cushion price shocks.",
-    "food_prices": "Moderate; tracking with mainland China's inflation, but influenced by rising regional shipping and cold-chain logistics costs.",
-    "import_dependency": "Critically High; imports nearly 100% of its food needs, primarily from mainland China.",
-    "risk_factors": "Extreme weather (typhoons) disrupting port logistics, and sensitivity to trade policy or supply chain shocks in mainland China."
-  },
   "450": {
     "country_name": "Madagascar",
     "population_2025": "31,900,000",
@@ -1408,7 +1386,18 @@
     "import_dependency": "High; despite vast arable land, Nigeria remains a major importer of wheat, rice, and dairy due to domestic production hurdles.",
     "risk_factors": "Widespread insecurity, currency devaluation, climate-driven flooding, and decaying rural infrastructure."
   },
-  "807": {
+  "408": {
+    "country_name": "North Korea",
+    "population_2025": "26,200,000",
+    "food_insecurity_summary": "North Korea continues to suffer from chronic and severe food insecurity throughout 2024 and 2025. The country's strict isolationist policies, combined with rigid state controls and lack of modern agricultural technology, have deeply crippled the domestic food supply system. A massive percentage of the population remains highly dependent on meager state rations and heavily precarious informal markets to survive.",
+    "prevalence_of_food_insecurity": "The prevalence of moderate and severe food insecurity remains widespread, encompassing a major portion of the national population outside elite urban centers. Widespread undernutrition and severe stunting among children continue to be reported by international monitoring agencies.",
+    "conflict": "Although there is no active military conflict on the peninsula, intense geopolitical tensions drive massive government spending toward the military-industrial complex. These heavy defense expenditures aggressively divert critical financial resources away from necessary agricultural investments and civilian food procurement.",
+    "political_instability": "The country maintains a highly centralized and strictly stable authoritarian regime, meaning overt political instability is practically zero. However, rigid bureaucratic mismanagement often leads to severe inefficiencies and corruption within the domestic agricultural distribution networks.",
+    "food_prices": "Food prices fluctuate wildly and unpredictably on the informal market, often spiking dangerously during lean seasons before major harvests. Due to strict state regulations and limited overall supply, basic grains frequently become economically out of reach for average, impoverished citizens.",
+    "import_dependency": "North Korea depends heavily on crucial food imports and informal aid from close allies like China to cover its persistent, structural caloric deficits. When these import channels face logistical delays or political restrictions, domestic food shortages immediately worsen.",
+    "risk_factors": "Key risk factors include extreme weather anomalies such as devastating summer floods and severe spring droughts that routinely ruin seasonal yields. Furthermore, chronic, systemic shortages of agricultural machinery, quality seeds, and chemical fertilizers deeply suppress long-term crop productivity."
+  },
+    "807": {
     "country_name": "North Macedonia",
     "population_2025": "2,080,000",
     "food_insecurity_summary": "North Macedonia’s food security is stable but vulnerable to regional energy and trade fluctuations in 2026. The country is a strong producer of fruits, vegetables, and tobacco, but relies heavily on neighbors for wheat and cooking oil. In early 2026, the government introduced 'Green Subsidies' to encourage cereal production to reduce import reliance. However, the aging rural population and the migration of youth have created a labor crisis in the agricultural sector that is limiting the expansion of domestic production.",
@@ -1452,16 +1441,16 @@
     "import_dependency": "Moderate; self-sufficient in rice and mostly in wheat, but heavily reliant on imports for palm oil, pulses, and fertilizers.",
     "risk_factors": "Extreme climate vulnerability (floods/droughts), high debt servicing limiting food subsidies, and fertilizer supply chain disruptions."
   },
-  "275": {
-    "country_name": "Palestine",
-    "population_2025": "5,600,000",
-    "food_insecurity_summary": "The food security situation in Palestine, particularly the Gaza Strip, remains catastrophic in 2026. Following years of intense hostilities, the collapse of domestic agricultural production and the destruction of bakeries and warehouses have created a near-total reliance on humanitarian aid. In early 2026, approximately 1.6 million people continue to face IPC Phase 3 (Crisis) or worse conditions. In the West Bank, increased movement restrictions and the loss of employment have severely reduced household purchasing power, leading to a rise in moderate food insecurity.",
-    "prevalence_food_insecurity": "Very High; acute insecurity dominates Gaza, with significant deterioration in the West Bank due to economic blockades.",
-    "conflict": "Very High; active conflict and territorial blockades are the primary drivers of the total food system collapse.",
-    "political_instability": "Very High; fragmented governance and total reliance on external aid providers.",
-    "food_prices": "Extreme; hyper-scarcity in conflict zones has led to exorbitant prices on the informal market for basic calories.",
-    "import_dependency": "Critically High; almost 100% of food in Gaza and over 70% in the West Bank is imported or provided through aid.",
-    "risk_factors": "Continued military operations, closure of border crossings, and the exhaustion of international humanitarian funding."
+  "585": {
+    "country_name": "Palau",
+    "population_2025": "17,663",
+    "food_insecurity_summary": "Palau does not face acute food shortages or starvation, but it deeply struggles with nutritional insecurity and vulnerability to external economic shocks. The remote island nation imports the vast majority of its dietary needs, exposing it to volatile global supply chains and high shipping costs. Consequently, changing global economic conditions can rapidly impact the local affordability of diverse and healthy food choices.",
+    "prevalence_of_food_insecurity": "While severe food insecurity is quite rare in Palau, moderate food insecurity occasionally manifests due to the high baseline cost of living. Nutritional issues, such as high rates of obesity linked to a heavy reliance on processed imported food, are much more prevalent than caloric deficits.",
+    "conflict": "Palau enjoys a highly peaceful domestic environment and maintains no military forces, resulting in an absolute zero conflict rating. This enduring peace ensures that maritime ports and local commerce operate securely without any physical disruption.",
+    "political_instability": "The nation boasts a highly stable democratic governance system with smooth, constitutional transitions of power. This strong institutional framework supports consistent economic planning and reliable food import regulations over the 2024-2025 period.",
+    "food_prices": "Food prices in Palau are structurally high and subject to global inflation because of steep maritime freight charges. These elevated costs place heavy financial pressure on low-income families, making fresh, nutritious produce difficult to afford regularly.",
+    "import_dependency": "Palau suffers from an extremely high import dependency, flying or shipping in over eighty percent of its total food supply. This absolute reliance leaves the domestic food market hyper-vulnerable to international shipping disruptions and sudden fuel price spikes.",
+    "risk_factors": "Chief risk factors include extreme weather events like typhoons and ocean warming caused by climate change, which heavily threaten local artisanal fisheries. Additionally, a narrow economic base heavily reliant on international tourism makes household incomes highly vulnerable to global economic downturns."
   },
   "591": {
     "country_name": "Panama",
@@ -1562,16 +1551,93 @@
     "import_dependency": "Low for staples; Moderate for processed foods and specific high-value agricultural inputs.",
     "risk_factors": "Climate-driven volatility (drought), slow structural transformation of small farms, and high energy costs for food processing."
   },
-  "410": {
-    "country_name": "South Korea",
-    "population_2025": "51,700,000",
-    "food_insecurity_summary": "In May 2026, South Korea reports favorable production prospects for its 2026 winter wheat and barley crops, which are expected to be harvested starting in June. However, following a below-average paddy harvest in 2025 due to low temperatures and unseasonal rains, rice stocks are tighter than the historical average. The nation continues to rely heavily on cereal imports—projected at 17 million tonnes for the 2025/26 marketing year—to meet its animal feed and processing needs. Food security remains a top national priority, with the government increasing direct payments to producers of alternative crops to reduce the historical over-reliance on rice.",
-    "prevalence_food_insecurity": "Very Low; exceptionally high purchasing power and strategic imports ensure total food availability.",
-    "conflict": "Low (Direct); Moderate (Geopolitical tensions in the region impacting maritime trade).",
-    "political_instability": "Low; stable democratic administration with high state capacity for food reserve management.",
-    "food_prices": "High; persistent inflation in the food service sector and high costs for imported beef and fruits.",
-    "import_dependency": "High; imports nearly all its wheat, maize, and soy requirements, as well as a significant portion of its beef.",
-    "risk_factors": "Global commodity price shocks, aging agricultural workforce, and vulnerability of maritime trade routes to regional tensions."
+  "643": {
+    "country_name": "Russia",
+    "population_2025": "144,000,000",
+    "food_insecurity_summary": "Russia maintains a high level of aggregate food self-sufficiency and does not experience widespread or systemic hunger. As a leading global agricultural producer and exporter, the country generates massive domestic surpluses of grains and other essential foodstuffs. However, localized economic access issues persist among low-income segments of the population, particularly in deeply isolated or underdeveloped regional territories.",
+    "prevalence_of_food_insecurity": "The prevalence of severe food insecurity remains extremely low across the Russian Federation as of 2025. Moderate food insecurity is mostly confined to highly vulnerable households facing severe financial hardships or residing in remote rural areas.",
+    "conflict": "The ongoing large-scale military conflict with Ukraine has heavily reoriented Russia's domestic economy and led to severe, sweeping international sanctions. While it hasn't caused domestic food shortages, the conflict has disrupted specific regional trade logistics and heavily altered export markets.",
+    "political_instability": "Despite facing intense external geopolitical pressures, the central government retains tight authoritarian control, keeping overt political instability low. However, long-term economic strains from the massive war effort could potentially stress domestic distribution networks and municipal budgets.",
+    "food_prices": "Food prices have experienced notable inflationary pressures during 2024 and 2025 due to Western sanctions, a weakened ruble, and high domestic labor costs. This inflation has heavily reduced the purchasing power of pensioners and low-income families for imported premium items.",
+    "import_dependency": "Russia has very low import dependency for staple foods like wheat, meat, and dairy due to its massive, heavily subsidized domestic production. It remains dependent on imports only for specific tropical fruits, ingredients, and specialized agricultural technology or machinery.",
+    "risk_factors": "Primary risk factors include persistent high domestic inflation and broader economic vulnerabilities stemming from prolonged, severe international sanctions. Climate risks like unpredictable seasonal weather variations also occasionally impact massive crop yields across its vast agricultural belt."
+  },
+  "646": {
+    "country_name": "Rwanda",
+    "population_2025": "14,400,000",
+    "food_insecurity_summary": "Rwanda has made significant strides in agricultural development, yet food insecurity remains a pressing challenge for many rural households in 2025. Limited arable land combined with an exceptionally high population density places immense pressure on domestic food production systems. As a result, poor seasonal weather patterns can quickly push vulnerable smallholder farmers into deep economic distress and food scarcity.",
+    "prevalence_of_food_insecurity": "The prevalence of moderate food insecurity affects a notable portion of the population, particularly in the more vulnerable western and southern provinces. Severe food insecurity is lower but still routinely spikes during the traditional lean seasons before major harvests.",
+    "conflict": "Rwanda remains internally peaceful and secure, with no active armed conflicts or civil unrest within its immediate borders. However, severe regional instability near the eastern border of the Democratic Republic of the Congo presents ongoing security and trade challenges.",
+    "political_instability": "The country exhibits high political stability backed by strong central governance and highly consistent policy implementation. This stable environment allows the government to execute long-term agricultural frameworks and coordinate efficient food aid responses.",
+    "food_prices": "Food prices have shown considerable volatility in 2024 and 2025 due to regional trade dynamics and persistently high transportation fuel costs. These elevated prices heavily strain the budgets of low-income consumers who spend a massive share of their income on basic food.",
+    "import_dependency": "Rwanda has a moderate dependency on food imports, relying on neighboring nations for bulk commodities like rice, sugar, and wheat. This dependency exposes local markets to sudden supply disruptions and trade restrictions imposed by regional partners.",
+    "risk_factors": "Key risk factors include climate-induced shocks such as recurrent droughts, erratic rainfall, and highly destructive landslides on the country's hilly terrains. Soil erosion and the extreme fragmentation of agricultural land plots further severely limit long-term crop productivity."
+  },
+  "659": {
+    "country_name": "Saint Kitts and Nevis",
+    "population_2025": "46,922",
+    "food_insecurity_summary": "Saint Kitts and Nevis enjoys a high standard of living, meaning acute starvation or severe food shortages are virtually nonexistent. However, the twin-island nation faces notable challenges related to food security because of its extreme reliance on imported food products. This structural reliance makes the local population highly vulnerable to global price shocks and international logistical bottlenecks.",
+    "prevalence_of_food_insecurity": "The prevalence of severe food insecurity is exceptionally low and rarely documented on the islands. Moderate food insecurity occasionally affects low-income families who struggle with the high baseline cost of maintaining a nutritious diet.",
+    "conflict": "The country maintains a highly peaceful democratic society completely free from active civil or military conflicts. This lack of conflict ensures that commercial ports and domestic retail operations run smoothly without any interruption.",
+    "political_instability": "Political instability is minimal as the nation operates under a stable parliamentary democracy with well-established institutions. Regular and peaceful elections guarantee policy continuity regarding economic management and food import protocols.",
+    "food_prices": "Food prices are structurally high and heavily influenced by international shipping rates and global commodity inflation. These elevated costs mean that healthy dietary options like fresh vegetables and fruits frequently carry steep premium prices.",
+    "import_dependency": "The federation exhibits a very high import dependency, importing over eighty percent of all food consumed on the islands. This absolute reliance leaves the domestic food supply chains deeply exposed to any disruptions at major international transshipment ports.",
+    "risk_factors": "The primary risk factors are climate-related, specifically the profound existential threat of catastrophic Atlantic hurricanes that can instantly devastate infrastructure. Rising sea temperatures and coastal erosion also pose long-term threats to local artisanal fishing sectors."
+  },
+  "662": {
+    "country_name": "Saint Lucia",
+    "population_2025": "180,149",
+    "food_insecurity_summary": "Saint Lucia exhibits strong economic foundations but faces underlying vulnerabilities in its domestic food security framework in 2025. The country's agricultural sector has shrunk over time, resulting in an overwhelming reliance on imported foodstuffs. This dependency means that external economic shocks can directly translate into unsustainably high grocery bills for local citizens.",
+    "prevalence_of_food_insecurity": "Severe food insecurity is very low, but moderate food insecurity persists among vulnerable socioeconomic groups. Many households face deep financial challenges in consistently affording balanced, nutrient-dense meals due to high living costs.",
+    "conflict": "Saint Lucia is entirely free from armed conflict and experiences a highly stable, peaceful social environment. This enduring peace guarantees that tourism and maritime trade, which heavily fuel the economy, proceed without physical disruption.",
+    "political_instability": "The country possesses a highly stable democratic government with well-functioning legal and political institutions. Smooth transitions between political administrations ensure that national food safety nets and economic policies remain consistent.",
+    "food_prices": "Retail food prices have risen significantly over the 2024-2025 period, driven heavily by global logistics costs and imported inflation. These high prices reduce the purchasing power of ordinary citizens, forcing some to buy cheaper, highly processed, less nutritious options.",
+    "import_dependency": "Saint Lucia has an exceptionally high import dependency, relying heavily on external suppliers for the vast majority of its food. This structural condition leaves the local market highly sensitive to international price volatility and shipping bottlenecks.",
+    "risk_factors": "Major risk factors include extreme susceptibility to severe tropical storms and hurricanes that can quickly wipe out coastal infrastructure and local agriculture. Economic dependency on a single sector, tourism, also makes household food security deeply sensitive to global travel trends."
+  },
+  "670": {
+    "country_name": "Saint Vincent and the Grenadines",
+    "population_2025": "99,937",
+    "food_insecurity_summary": "Saint Vincent and the Grenadines possesses a vibrant agricultural sector but faces severe challenges from natural disasters and import reliance. The country produces substantial amounts of root crops and fruits, yet heavily imports most of its processed goods and grains. This mix creates a complex food system that is deeply sensitive to both environmental shocks and global economic trends.",
+    "prevalence_of_food_insecurity": "Severe food insecurity is rare across the islands, thanks largely to local agricultural safety nets and strong community cohesion. Moderate food insecurity heavily affects certain low-income families, particularly following highly disruptive environmental events or economic downturns.",
+    "conflict": "The multi-island nation enjoys a highly peaceful democratic society with absolutely no ongoing military or civil conflicts. This peaceful environment allows local farmers and fishermen to operate securely without any physical threats.",
+    "political_instability": "Political instability is exceptionally low, as the country operates under a long-standing parliamentary democracy with stable governance. This institutional consistency ensures that national disaster recovery plans and agricultural policies are implemented smoothly.",
+    "food_prices": "Food prices have experienced intense upward pressure due to high international freight rates and global commodity market inflation. These elevated costs make heavily imported nutritional items much more expensive for average household budgets.",
+    "import_dependency": "The nation maintains a dangerously high import dependency for critical dietary staples such as wheat, poultry, and dairy products. This heavy reliance leaves domestic markets highly exposed to international supply chain shocks and extreme price volatility.",
+    "risk_factors": "Key risk factors include extreme vulnerability to devastating tropical hurricanes and residual effects from volcanic activity that can instantly wipe out crop lands. Climate-induced erratic rainfall also poses a deep threat to consistent seasonal agricultural yields."
+  },
+  "882": {
+    "country_name": "Samoa",
+    "population_2025": "232,231",
+    "food_insecurity_summary": "Samoa generally enjoys basic food security because of robust traditional subsistence farming and vibrant local fisheries. However, the country is increasingly shifting toward imported, highly processed foods, which introduces deep economic and nutritional vulnerabilities. While absolute calorie deficits are rare, ensuring stable access to affordable and healthy foods remains a massive ongoing concern.",
+    "prevalence_of_food_insecurity": "The prevalence of severe food insecurity is very low thanks to deep communal support networks and localized food production. Moderate food insecurity manifests primarily as economic difficulty in purchasing high-quality imported goods during inflationary periods.",
+    "conflict": "Samoa is a highly peaceful Pacific nation with no active domestic conflicts or external military threats. This peaceful reality allows local communities to focus heavily on agricultural activities and maritime fishing without disruption.",
+    "political_instability": "The country enjoys a highly stable democratic system rooted deeply in traditional governance customs and a robust legal framework. Political transitions are orderly, maintaining strict policy stability for agricultural development and trade throughout 2024-2025.",
+    "food_prices": "Food prices are elevated due to remote geographical positioning and astronomically high international shipping expenses. Spikes in global fuel costs directly and rapidly drive up the price of essential imported commodities in local shops.",
+    "import_dependency": "Samoa has a high dependency on imports for key dietary staples like poultry, flour, and rice. This heavy reliance exposes the domestic market to external supply disruptions and severe fluctuations in global trade markets.",
+    "risk_factors": "Severe natural hazards such as intense cyclones, flash floods, and rapid sea-level rise constitute the most prominent risk factors. Additionally, the incredibly high prevalence of non-communicable diseases linked to imported processed foods represents a massive national nutritional risk."
+  },
+  "674": {
+    "country_name": "San Marino",
+    "population_2025": "33,583",
+    "food_insecurity_summary": "San Marino boasts an exceptionally advanced, high-income economy and experiences absolutely zero structural or severe food insecurity. The small enclaved nation has high average household incomes that ensure universal, continuous economic access to food. Residents rely on fully integrated, highly modern supply chains with Italy to fulfill all of their dietary requirements seamlessly.",
+    "prevalence_of_food_insecurity": "The prevalence of moderate and severe food insecurity in San Marino is completely negligible. No domestic or international agencies record any significant food deprivation or undernutrition among the wealthy population.",
+    "conflict": "San Marino is a historically peaceful nation completely free from any internal civil unrest or external military conflicts. Its deeply peaceful status ensures that surrounding regional trade routes remain entirely unhindered and highly secure.",
+    "political_instability": "The country features a highly stable parliamentary system with centuries of uninterrupted democratic traditions. This profound political consistency guarantees that economic regulations and import protocols operate seamlessly without any administrative delays.",
+    "food_prices": "Although European inflationary trends affected consumer prices across the region, San Marinese citizens faced no threats to food access. Exceptionally high purchasing power completely buffers households against fluctuations in regional retail food costs.",
+    "import_dependency": "The republic exhibits a total import dependency, relying entirely on Italy for almost all of its food supply. This absolute reliance carries minimal practical risk because of open borders and frictionless integration into the European single market.",
+    "risk_factors": "There are virtually no immediate domestic risk factors threatening the food security of San Marino's population. The only potential risks involve massive, unprecedented macroeconomic crises or extreme environmental disasters affecting southern Europe as a whole."
+  },
+  "678": {
+    "country_name": "Sao Tome and Principe",
+    "population_2025": "235,000",
+    "food_insecurity_summary": "Sao Tome and Principe faces persistent, deep challenges in securing a stable food supply for its entire population in 2025. As a small island nation, it suffers from severely limited agricultural diversification and high vulnerability to climate shocks. Consequently, a significant portion of the populace experiences deep difficulties in consistently accessing diverse and nutritious food.",
+    "prevalence_of_food_insecurity": "The prevalence of moderate food insecurity is relatively high, negatively affecting many vulnerable households across both islands. Severe food insecurity is less widespread but remains a highly active concern during periods of delayed maritime cargo shipments.",
+    "conflict": "The country is entirely peaceful and completely free from any form of armed conflict or civil warfare. This domestic peace allows for the uninterrupted operation of local markets and small-scale artisanal fishing activities.",
+    "political_instability": "Sao Tome and Principe maintains a democratic framework, though it occasionally experiences political friction and frequent cabinet shuffles. While these dynamics create minor policy inconsistencies, they have not led to any major civil instability during 2024-2025.",
+    "food_prices": "Food prices have escalated considerably due to incredibly high international shipping costs and a persistently weak local currency. These rising expenses place a heavy financial burden on average families trying to buy basic imported staples.",
+    "import_dependency": "The nation exhibits a dangerously high import dependency, relying heavily on external sources for major food items including rice, wheat, and milk. This deep dependency leaves the country highly vulnerable to international transport delays and global commodity price shocks.",
+    "risk_factors": "Key risk factors include severe climate change impacts such as rising sea levels and unpredictable rainfall patterns that heavily harm coastal agriculture. Limited foreign exchange reserves also deeply constrain the government's ability to finance emergency food imports during economic downturns."
   },
   "682": {
     "country_name": "Saudi Arabia",
@@ -1584,18 +1650,7 @@
     "import_dependency": "Very High; imports over 80% of total food requirements, including nearly all grain and sugar.",
     "risk_factors": "Water scarcity (dependence on desalination), regional maritime chokepoints, and high sensitivity to global cereal price shifts."
   },
-  "710": {
-    "country_name": "South Africa",
-    "population_2025": "60,800,000",
-    "food_insecurity_summary": "As of May 2026, the South African agricultural sector is gathered at the NAMPO Harvest Day, focusing on 'Resilience through Innovation.' While the country remains a net food exporter, producers are facing an acute 'price-cost squeeze' as input costs (fertilizer, fuel, and electricity) rise faster than producer income. There is an urgent national push to move surplus grain through export channels to maintain farm profitability. For consumers, high unemployment and stagnant wages mean that despite high food availability, economic access remains a critical barrier, particularly for the urban poor and those in informal settlements.",
-    "prevalence_food_insecurity": "Moderate; ~20% of households face some degree of food insecurity due to high unemployment rather than lack of supply.",
-    "conflict": "Low; however, localized social unrest and crime impact farm security and transport logistics.",
-    "political_instability": "Moderate; governance focuses on navigating energy crises and logistic reforms in the rail and port sectors.",
-    "food_prices": "High; retail prices for staples like maize meal and bread have risen due to high logistical and energy-related processing costs.",
-    "import_dependency": "Low for staples (maize); Moderate for wheat, rice, and vegetable oils.",
-    "risk_factors": "Energy supply instability (load-shedding), crumbling transport infrastructure (rail/ports), and high youth unemployment."
-  },
-  "686": {
+   "686": {
     "country_name": "Senegal",
     "population_2025": "18,300,000",
     "food_insecurity_summary": "Senegal faces a concerning outlook in May 2026 as the country approaches the June–August lean season. The latest Cadre Harmonisé (2025/26) analysis indicates that over 1.4 million people in the region, including parts of Senegal, are in 'Emergency' (Phase 4). High global food prices and reduced humanitarian funding have tightened local markets. While domestic rice production has seen incremental growth, the country remains highly vulnerable to the cost of imported cereals. Insecurity in the wider Sahel region and the resulting displacement of people have further strained food systems in border areas.",
@@ -1616,6 +1671,17 @@
     "food_prices": "Stable to Moderate; bread and grain prices are buffered by the wheat surplus, though meat prices are rising due to corn shortages.",
     "import_dependency": "Low; a significant regional exporter of grains and sunflower oil, though it imports processed goods and energy.",
     "risk_factors": "Crop-specific weather damage (corn), high dependency on the European export market, and energy price volatility."
+  },
+  "690": {
+    "country_name": "Seychelles",
+    "population_2025": "132,779",
+    "food_insecurity_summary": "Seychelles is a high-income island nation that has successfully eliminated severe structural hunger among its citizens. However, it remains highly vulnerable to external economic factors due to a heavy, systemic reliance on imported food. The country must continuously manage the exceptionally high costs of maintaining a stable and diverse food supply chain.",
+    "prevalence_of_food_insecurity": "The prevalence of severe food insecurity is extremely low and mostly restricted to deeply marginalized individuals. Moderate food insecurity is also very low but can occasionally rise among lower-income households during periods of high global inflation.",
+    "conflict": "Seychelles is a highly stable maritime nation completely free from active internal conflicts or external military threats. This tight security ensures that international shipping lines and the vital tourism industry operate without disruption.",
+    "political_instability": "The country enjoys high political stability with a robust democratic system and highly orderly transitions of executive power. This stable governance deeply supports consistent long-term economic planning and reliable food security policies during 2024-2025.",
+    "food_prices": "Food prices are structurally very high because of long-distance shipping routes and global maritime supply chain costs. The government frequently uses targeted subsidies and price controls on essential goods to protect vulnerable citizens from sudden price spikes.",
+    "import_dependency": "Seychelles suffers from an extremely high import dependency, importing roughly ninety percent of its total food requirements. This absolute reliance makes the domestic market highly sensitive to global food market fluctuations and shipping disruptions.",
+    "risk_factors": "The primary risk factors are severe climate change impacts, including ocean acidification and rapid warming that heavily threaten local tuna fisheries. Deep economic vulnerability to global shocks that impact tourism revenue also poses a major risk to household incomes."
   },
   "694": {
     "country_name": "Sierra Leone",
@@ -1683,6 +1749,28 @@
     "import_dependency": "High; heavily reliant on global grain markets and international humanitarian aid for basic survival.",
     "risk_factors": "Recurrent multi-year droughts, extreme fuel price volatility, and high levels of internal displacement."
   },
+  "710": {
+    "country_name": "South Africa",
+    "population_2025": "60,800,000",
+    "food_insecurity_summary": "As of May 2026, the South African agricultural sector is gathered at the NAMPO Harvest Day, focusing on 'Resilience through Innovation.' While the country remains a net food exporter, producers are facing an acute 'price-cost squeeze' as input costs (fertilizer, fuel, and electricity) rise faster than producer income. There is an urgent national push to move surplus grain through export channels to maintain farm profitability. For consumers, high unemployment and stagnant wages mean that despite high food availability, economic access remains a critical barrier, particularly for the urban poor and those in informal settlements.",
+    "prevalence_food_insecurity": "Moderate; ~20% of households face some degree of food insecurity due to high unemployment rather than lack of supply.",
+    "conflict": "Low; however, localized social unrest and crime impact farm security and transport logistics.",
+    "political_instability": "Moderate; governance focuses on navigating energy crises and logistic reforms in the rail and port sectors.",
+    "food_prices": "High; retail prices for staples like maize meal and bread have risen due to high logistical and energy-related processing costs.",
+    "import_dependency": "Low for staples (maize); Moderate for wheat, rice, and vegetable oils.",
+    "risk_factors": "Energy supply instability (load-shedding), crumbling transport infrastructure (rail/ports), and high youth unemployment."
+  },
+  "410": {
+    "country_name": "South Korea",
+    "population_2025": "51,700,000",
+    "food_insecurity_summary": "In May 2026, South Korea reports favorable production prospects for its 2026 winter wheat and barley crops, which are expected to be harvested starting in June. However, following a below-average paddy harvest in 2025 due to low temperatures and unseasonal rains, rice stocks are tighter than the historical average. The nation continues to rely heavily on cereal imports—projected at 17 million tonnes for the 2025/26 marketing year—to meet its animal feed and processing needs. Food security remains a top national priority, with the government increasing direct payments to producers of alternative crops to reduce the historical over-reliance on rice.",
+    "prevalence_food_insecurity": "Very Low; exceptionally high purchasing power and strategic imports ensure total food availability.",
+    "conflict": "Low (Direct); Moderate (Geopolitical tensions in the region impacting maritime trade).",
+    "political_instability": "Low; stable democratic administration with high state capacity for food reserve management.",
+    "food_prices": "High; persistent inflation in the food service sector and high costs for imported beef and fruits.",
+    "import_dependency": "High; imports nearly all its wheat, maize, and soy requirements, as well as a significant portion of its beef.",
+    "risk_factors": "Global commodity price shocks, aging agricultural workforce, and vulnerability of maritime trade routes to regional tensions."
+  },
   "728": {
     "country_name": "South Sudan",
     "population_2025": "11,500,000",
@@ -1715,6 +1803,17 @@
     "food_prices": "High; although inflation has slowed, the nominal price of rice and vegetables remains high relative to average incomes.",
     "import_dependency": "Moderate; self-sufficient in rice but reliant on imports for wheat, sugar, pulses, and milk powder.",
     "risk_factors": "Vulnerability to fuel price spikes, climate-induced weather extremes (monsoon variability), and foreign exchange constraints."
+  },
+    "275": {
+    "country_name": "State of Palestine",
+    "population_2025": "5,600,000",
+    "food_insecurity_summary": "The food security situation in Palestine, particularly the Gaza Strip, remains catastrophic in 2026. Following years of intense hostilities, the collapse of domestic agricultural production and the destruction of bakeries and warehouses have created a near-total reliance on humanitarian aid. In early 2026, approximately 1.6 million people continue to face IPC Phase 3 (Crisis) or worse conditions. In the West Bank, increased movement restrictions and the loss of employment have severely reduced household purchasing power, leading to a rise in moderate food insecurity.",
+    "prevalence_food_insecurity": "Very High; acute insecurity dominates Gaza, with significant deterioration in the West Bank due to economic blockades.",
+    "conflict": "Very High; active conflict and territorial blockades are the primary drivers of the total food system collapse.",
+    "political_instability": "Very High; fragmented governance and total reliance on external aid providers.",
+    "food_prices": "Extreme; hyper-scarcity in conflict zones has led to exorbitant prices on the informal market for basic calories.",
+    "import_dependency": "Critically High; almost 100% of food in Gaza and over 70% in the West Bank is imported or provided through aid.",
+    "risk_factors": "Continued military operations, closure of border crossings, and the exhaustion of international humanitarian funding."
   },
   "729": {
     "country_name": "Sudan",
@@ -1770,17 +1869,6 @@
     "food_prices": "Extreme; animal feed prices have risen up to 300%, and bread remains heavily reliant on fragile state and humanitarian subsidies.",
     "import_dependency": "High; domestic wheat production has failed to meet needs for years, leaving the country reliant on imports and aid.",
     "risk_factors": "Chronic water scarcity and drought, collapse of irrigation infrastructure, and uncertain international humanitarian funding."
-  },
-  "158": {
-    "country_name": "Taiwan",
-    "population_2025": "23,950,000",
-    "food_insecurity_summary": "In May 2026, Taiwan maintains a high level of food security supported by a robust economy and strategic reserves. However, the island’s self-sufficiency rate remains a critical policy concern, hovering around 31%. The escalation of regional tensions in early 2026 has prompted the government to increase its 'Emergency Food Security Plan,' expanding stocks of rice and essential grains to cover six months of consumption. While food is widely available, global shipping disruptions in the Middle East have slightly increased the cost of imported soy and corn, which are vital for the local livestock industry.",
-    "prevalence_food_insecurity": "Very Low; food availability is high, though economic access for low-income urban groups is monitored due to rising import costs.",
-    "conflict": "Low (Direct); High (Regional Geopolitical). Tensions in the Taiwan Strait affect shipping insurance and logistics planning.",
-    "political_instability": "Low; stable democratic governance with a focus on national resilience.",
-    "food_prices": "Moderate; stable for domestic rice, but meat and dairy prices are rising due to the cost of imported feed.",
-    "import_dependency": "Critically High; imports roughly 70% of total calories, including almost all wheat, soy, and maize.",
-    "risk_factors": "Vulnerability to maritime blockades, high dependency on energy and feed imports, and climate-driven typhoons impacting local agriculture."
   },
   "762": {
     "country_name": "Tajikistan",
@@ -1990,6 +2078,17 @@
     "food_prices": "Very High; driven by disaster-related scarcity and the extreme cost of maritime and internal logistics.",
     "import_dependency": "High; reliant on imports for rice, flour, and proteins, which become essential when local gardens are destroyed.",
     "risk_factors": "Repeated tropical cyclones, high vulnerability to global fuel price spikes, and isolation of outer island communities."
+  },
+  "336": {
+    "country_name": "Vatican City",
+    "population_2025": "501",
+    "food_insecurity_summary": "Vatican City experiences zero structural food insecurity due to its unique demographic structure and exceptionally high-income resident profile. The small city-state has no agricultural sector but possesses robust economic means to securely procure its entire food supply. Residents enjoy complete and continuous access to high-quality, diverse food options imported seamlessly from surrounding Italy.",
+    "prevalence_of_food_insecurity": "The prevalence of both moderate and severe food insecurity inside Vatican City is virtually non-existent. There are no tracked metrics or reports indicating any level of hunger or caloric deficit among its population during 2024-2025.",
+    "conflict": "Vatican City is entirely free from internal civil unrest or international military conflicts. Its status as an independent, neutral territory prevents any physical disruptions to its daily food distribution systems.",
+    "political_instability": "Political instability is completely absent given the highly structured, continuous, and stable governance of the Holy See. This long-standing political continuity ensures that administrative systems and regional supply lines operate without any friction.",
+    "food_prices": "While global inflationary trends mildly affected retail prices across Europe, Vatican City's population faced absolutely no economic barriers to food access. Exceptionally high average purchasing power entirely mitigates the impact of any minor fluctuations in food import costs.",
+    "import_dependency": "The country is one hundred percent dependent on imports from Italy for all of its daily food requirements. However, this absolute dependency carries zero practical risk due to open borders and seamless logistics integration with Italian supply chains.",
+    "risk_factors": "There are no standard domestic risk factors threatening food security within this wealthy urban enclave. The only hypothetical risks would stem from broader, systemic continent-wide supply chain collapses or extreme regional disasters."
   },
   "862": {
     "country_name": "Venezuela",

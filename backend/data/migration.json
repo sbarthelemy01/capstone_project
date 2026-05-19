@@ -342,7 +342,7 @@
     "push_pull_factors": "Chronic underdevelopment, political instability, and failing public services serve as the primary push factors. The promise of free healthcare, education, and the European standard of living just 70 kilometers away in Mayotte is an overwhelming pull factor."
   },
   "180": {
-    "country_name": "Congo, Democratic Republic of the",
+    "country_name": "Democratic Republic of the Congo",
     "population_2025": "105,000,000",
     "migration_summary": "The Democratic Republic of the Congo (DRC) faces one of the world's most severe and complex displacement crises in 2026. Decades of brutal conflict in the eastern provinces (North Kivu, South Kivu, and Ituri) have displaced over seven million people internally. Simultaneously, the country hosts hundreds of thousands of refugees from neighboring states, while many of its own citizens flee to Uganda, Rwanda, and Zambia.",
     "economic_factors": "Despite possessing trillions of dollars in critical minerals, extreme corruption and endless conflict keep the vast majority of the population in absolute poverty. Displaced populations are often forced into dangerous, informal artisanal mining just to survive, feeding the global supply chain for electronics.",
@@ -351,7 +351,7 @@
     "push_pull_factors": "Endemic massacres, forced conscription of children, and systematic resource looting are the absolute push factors driving internal displacement. The desperate pursuit of physical survival and the presence of UN or international NGO encampments serve as the only pull factors."
   },
   "178": {
-    "country_name": "Congo, Republic of the",
+    "country_name": "Congo (Congo-Brazzaville)",
     "population_2025": "6,500,000",
     "migration_summary": "In 2026, the Republic of the Congo experiences a steady rate of rural-to-urban migration, with the vast majority of the population now concentrated in Brazzaville and Pointe-Noire. The country also acts as a notable host nation for refugees fleeing conflicts in the neighboring Democratic Republic of the Congo and the Central African Republic. Furthermore, economic stagnation drives a steady stream of the educated youth to emigrate to France.",
     "economic_factors": "The economy is heavily dependent on oil exports, and the lack of economic diversification means there are few formal jobs outside the energy sector or the bloated civil service. Extreme poverty in the rural north and impassable road infrastructure push citizens toward the coastal and capital cities seeking subsistence.",
@@ -367,6 +367,15 @@
     "social_factors": "Costa Rica's celebrated egalitarian society is facing unprecedented tests, with rising xenophobia and public frustration over congested public services. The presence of wealthy North American retirees in coastal enclaves also drives up the local cost of living and real estate prices.",
     "government_policies": "The government has recently altered its asylum system to fast-track rejections for economic migrants, attempting to clear a massive multi-year backlog. Authorities have also struck agreements with neighboring Panama to bus transit migrants directly across the country to the Nicaraguan border to minimize local impact.",
     "push_pull_factors": "A rising cost of living and increasing wealth inequality act as minor push factors for working-class Costa Ricans. Exceptional political stability, a robust welfare state, and a strong ecotourism economy are overwhelming pull factors for both regional refugees and Western expatriates."
+  },
+  "384": {
+    "country_name": "Côte d'Ivoire",
+    "population_2025": "30,000,000",
+    "migration_summary": "Côte d'Ivoire remains the economic powerhouse of Francophone West Africa in 2026, making it a premier destination for regional labor migration. The country relies heavily on millions of immigrant workers from Burkina Faso, Mali, and Guinea to sustain its massive cocoa and agricultural export sectors. However, the nation also experiences a steady outflow of its own urban youth attempting to reach Europe via dangerous Mediterranean routes.",
+    "economic_factors": "The economy is structurally dependent on cheap, foreign West African labor to harvest the cocoa and coffee that generate the bulk of national export revenue. Despite overall economic growth, wealth inequality remains high, prompting frustrated urban youth to seek greater financial stability in France.",
+    "social_factors": "The integration of millions of regional migrants occasionally sparks xenophobic political rhetoric (Ivoirité), particularly during election cycles or economic downturns. Remittances sent back by Ivorians living in Europe provide essential support for families struggling with the rising cost of living in Abidjan.",
+    "government_policies": "As a key member of ECOWAS, the state generally upholds the protocol of free movement for regional citizens, facilitating the essential flow of agricultural labor. The government actively collaborates with international agencies to intercept smuggling rings and repatriate stranded Ivorian migrants from North Africa.",
+    "push_pull_factors": "Urban unemployment and the illusion of European prosperity act as the primary push factors driving Ivorian youth to emigrate. The relative stability of the CFA franc, vast agricultural opportunities, and a booming construction sector are massive pull factors for neighboring African nationals."
   },
   "191": {
     "country_name": "Croatia",
@@ -396,7 +405,7 @@
     "push_pull_factors": "The skyrocketing cost of living acts as a push factor, causing a brain drain of young Cypriot graduates to the UK and mainland Europe. A highly favorable corporate tax rate, EU membership, and physical safety act as massive pull factors for regional businesses and refugees alike."
   },
   "203": {
-    "country_name": "Czechia",
+    "country_name": "Czech Republic (Czechia)",
     "population_2025": "10,900,000",
     "migration_summary": "In 2026, Czechia is defined by its successful, albeit challenging, integration of hundreds of thousands of Ukrainian refugees who arrived since 2022. The country also relies heavily on labor migration from Slovakia, Vietnam, and the Balkans to sustain its highly industrialized economy. Unlike its neighbors, Czechia experiences relatively low emigration, maintaining a stable and prosperous domestic workforce.",
     "economic_factors": "Boasting one of the lowest unemployment rates in the EU, the manufacturing and tech sectors are entirely dependent on foreign labor to maintain productivity. The massive influx of Ukrainians has significantly boosted the workforce but has also exacerbated a preexisting and severe shortage of affordable housing.",
@@ -736,15 +745,6 @@
     "social_factors": "The constant influx of asylum seekers dominates national political discourse, fueling the rise of right-wing populism and anti-immigrant sentiment. The rapidly aging native population creates empty rural villages and an unsustainable burden on the national pension and healthcare systems.",
     "government_policies": "The government fiercely lobbies the European Union for mandatory migrant relocation quotas while actively funding North African coast guards to intercept boats at sea. Domestic policies paradoxically enforce strict anti-immigration rhetoric while routinely issuing hundreds of thousands of work permits to fill critical labor shortages.",
     "push_pull_factors": "Chronic bureaucratic inefficiency and a lack of meritocracy act as relentless push factors driving the Italian youth abroad. Geographic proximity to Africa and the demand for low-wage, undocumented agricultural labor serve as the primary pull factors for trans-Mediterranean migrants."
-  },
-  "384": {
-    "country_name": "Ivory Coast",
-    "population_2025": "30,000,000",
-    "migration_summary": "Côte d'Ivoire remains the economic powerhouse of Francophone West Africa in 2026, making it a premier destination for regional labor migration. The country relies heavily on millions of immigrant workers from Burkina Faso, Mali, and Guinea to sustain its massive cocoa and agricultural export sectors. However, the nation also experiences a steady outflow of its own urban youth attempting to reach Europe via dangerous Mediterranean routes.",
-    "economic_factors": "The economy is structurally dependent on cheap, foreign West African labor to harvest the cocoa and coffee that generate the bulk of national export revenue. Despite overall economic growth, wealth inequality remains high, prompting frustrated urban youth to seek greater financial stability in France.",
-    "social_factors": "The integration of millions of regional migrants occasionally sparks xenophobic political rhetoric (Ivoirité), particularly during election cycles or economic downturns. Remittances sent back by Ivorians living in Europe provide essential support for families struggling with the rising cost of living in Abidjan.",
-    "government_policies": "As a key member of ECOWAS, the state generally upholds the protocol of free movement for regional citizens, facilitating the essential flow of agricultural labor. The government actively collaborates with international agencies to intercept smuggling rings and repatriate stranded Ivorian migrants from North Africa.",
-    "push_pull_factors": "Urban unemployment and the illusion of European prosperity act as the primary push factors driving Ivorian youth to emigrate. The relative stability of the CFA franc, vast agricultural opportunities, and a booming construction sector are massive pull factors for neighboring African nationals."
   },
   "388": {
     "country_name": "Jamaica",
@@ -1187,15 +1187,6 @@
     "government_policies": "The government views the COFA agreement as essential for national survival, ensuring citizens have a safety valve for economic and environmental migration. Domestic policies focus heavily on environmental conservation to protect the tourism industry, though they struggle to create retention incentives for the youth.",
     "push_pull_factors": "Rising sea levels, geographic isolation, and low domestic wages act as the primary, persistent push factors. The absolute legal right to live, work, and access healthcare in the United States acts as the overwhelming pull factor."
   },
-  "275": {
-    "country_name": "Palestine",
-    "population_2025": "5,500,000",
-    "migration_summary": "In 2026, the State of Palestine is enduring an unprecedented, catastrophic forced displacement crisis, particularly in the Gaza Strip following the devastations of recent wars. The entire population of Gaza has been internally displaced multiple times, facing extreme starvation and the total destruction of civilian infrastructure. In the West Bank, escalating settlement expansion and military checkpoints severely restrict movement and drive localized displacement.",
-    "economic_factors": "The Palestinian economy has been completely obliterated, with the historical reliance on labor inside Israel abruptly severed. The population is entirely dependent on international humanitarian aid, which is frequently obstructed by border closures and conflict.",
-    "social_factors": "Society is traumatized by unimaginable loss of life, the destruction of universities and hospitals, and the erasure of entire neighborhoods. The forced fragmentation of families and the lack of basic survival resources have created a generational humanitarian catastrophe.",
-    "government_policies": "The fragmented Palestinian governance structures are practically powerless to protect citizens or manage borders, which are entirely controlled by Israel and Egypt. International diplomacy focuses heavily on securing basic humanitarian corridors, as the right of return or emigration remains highly restricted and politically explosive.",
-    "push_pull_factors": "Relentless military bombardment, total infrastructural collapse, and military occupation are absolute, life-threatening push factors. The desperate, basic human need for physical safety, food, and medical care acts as the sole driver for those attempting to flee."
-  },
   "591": {
     "country_name": "Panama",
     "population_2025": "4,500,000",
@@ -1241,15 +1232,6 @@
     "government_policies": "The newly established Department of Migrant Workers centrally manages the massive deployment and protection of the overseas workforce through strict bilateral agreements. The government frequently implements deployment bans to specific countries where systemic abuses of Filipino domestic workers are reported.",
     "push_pull_factors": "Chronic underemployment, vulnerability to catastrophic typhoons, and low domestic wages act as the primary, persistent push factors. The global demand for English-speaking, skilled healthcare professionals and maritime crews acts as the overwhelming pull factor."
   },
-  "612": {
-    "country_name": "Pitcairn",
-    "population_2025": "45",
-    "migration_summary": "Pitcairn in 2026 faces an acute existential demographic crisis due to its microscopic and rapidly aging population. As the last British Overseas Territory in the Pacific, it experiences near-zero inward migration despite government campaigns offering free land. The absolute geographic isolation drives the few remaining youths to emigrate to New Zealand for education and employment.",
-    "economic_factors": "The economy is entirely subsidized by the UK government and reliant on niche exports like honey and commemorative stamps. There is virtually no private sector or formal job market, making economic independence impossible for residents.",
-    "social_factors": "The microscopic community struggles to maintain basic social functions and infrastructure due to a severe lack of working-age adults. The legacy of historical scandals continues to cast a long shadow, severely hampering efforts to attract new families to the island.",
-    "government_policies": "The local government desperately attempts to execute settlement schemes, offering free land and logistical support to anyone willing to relocate. The UK government maintains strict oversight, heavily subsidizing the essential supply ship that serves as the island's only lifeline.",
-    "push_pull_factors": "Extreme geographic isolation, lack of medical facilities, and no economic prospects act as absolute, undeniable push factors. The promise of free land and a completely off-grid, unique lifestyle serve as the only, albeit largely unsuccessful, pull factors."
-  },
   "616": {
     "country_name": "Poland",
     "population_2025": "37,500,000",
@@ -1268,15 +1250,6 @@
     "government_policies": "The government recently ended the controversial Non-Habitual Resident (NHR) tax regime in response to intense public anger over the housing crisis. Authorities have simultaneously launched targeted tax incentive programs aimed specifically at convincing the emigrated Portuguese youth to return home.",
     "push_pull_factors": "Low domestic wages and astronomical housing costs act as the primary, relentless push factors driving the native youth abroad. An exceptional climate, high safety index, and affordable living costs relative to the US and UK act as massive pull factors for expatriates."
   },
-  "630": {
-    "country_name": "Puerto Rico",
-    "population_2025": "3,200,000",
-    "migration_summary": "In 2026, Puerto Rico continues to grapple with a profound demographic crisis characterized by a rapidly aging population and the relentless out-migration of its working-age citizens to the US mainland. The island experiences massive brain drain as doctors, engineers, and teachers flee the fragile power grid and economic stagnation. Conversely, unique tax incentives attract a small but highly visible influx of wealthy mainland investors and cryptocurrency entrepreneurs.",
-    "economic_factors": "A decade-long debt crisis and the slow reconstruction from historical hurricanes have severely stunted job growth and infrastructure development. The Act 60 tax breaks attract high-net-worth individuals, which boosts the luxury real estate sector but fails to generate broad local employment.",
-    "social_factors": "The continuous exodus has fractured families and led to the closure of hundreds of public schools across the island due to declining enrollment. The influx of wealthy mainlanders has sparked intense local resentment and protests over the aggressive gentrification of coastal communities.",
-    "government_policies": "The territorial government struggles to implement retention policies, as it cannot legally or economically restrict the free movement of its citizens to the US mainland. Authorities vehemently defend the controversial tax incentive programs as necessary tools to attract desperately needed foreign direct investment.",
-    "push_pull_factors": "A failing electrical grid, high cost of living, and lack of specialized career opportunities serve as massive, relentless push factors. The absolute legal freedom to move to the US mainland and lucrative corporate tax exemptions act as the primary pull factors."
-  },
   "634": {
     "country_name": "Qatar",
     "population_2025": "3,000,000",
@@ -1285,15 +1258,6 @@
     "social_factors": "Society is strictly stratified between the tiny, immensely wealthy native population and the vast, transient migrant workforce residing in dedicated labor camps. While international scrutiny led to some labor reforms, social integration between the native and migrant populations remains practically nonexistent.",
     "government_policies": "The government has officially abolished the traditional Kafala sponsorship system, theoretically allowing workers to change jobs without employer permission. However, strict visa quotas, deportation policies, and the lack of a pathway to citizenship ensure the state maintains absolute demographic control.",
     "push_pull_factors": "The total lack of political rights and permanent residency pathways act as eventual push factors for long-term expatriates. Tax-free salaries, world-class infrastructure, and a highly stable currency remain the overwhelming pull factors for global labor."
-  },
-  "638": {
-    "country_name": "Réunion",
-    "population_2025": "900,000",
-    "migration_summary": "As an overseas department of France, Réunion in 2026 manages a complex migration profile defined by its integration into the European Union despite its location in the Indian Ocean. The island experiences significant brain drain as educated youth migrate to mainland France seeking better employment opportunities. Simultaneously, it attracts a steady stream of regional migrants from Mayotte and Madagascar seeking the high standard of living provided by the French welfare state.",
-    "economic_factors": "The local economy suffers from chronic, extremely high structural unemployment, forcing many to rely heavily on French social subsidies. The lack of industrial diversification limits career advancement, making emigration to metropolitan France the primary economic strategy for young graduates.",
-    "social_factors": "The island is celebrated for its highly diverse, harmonious creole culture, blending African, Indian, European, and Chinese heritages. However, the continuous influx of poorer regional migrants places noticeable strain on local housing and public healthcare systems.",
-    "government_policies": "The local administration relies entirely on the French central government to manage its borders and fund its massive social safety net. Authorities actively facilitate the \"Mobilité\" programs, which provide financial assistance to youth relocating to mainland France for education and work.",
-    "push_pull_factors": "High youth unemployment and geographic isolation act as the primary, persistent push factors driving citizens to the mainland. The exceptional European standard of living, universal healthcare, and political stability act as massive pull factors for regional Indian Ocean migrants."
   },
   "642": {
     "country_name": "Romania",
@@ -1321,24 +1285,6 @@
     "social_factors": "The society is heavily managed by the state, which strictly regulates social cohesion and integration policies for incoming refugees. The presence of massive refugee camps near the borders occasionally creates localized strain on natural resources and infrastructure.",
     "government_policies": "The government leverages its reputation for safety to secure highly lucrative, controversial international agreements to process European asylum seekers. Domestically, the state enforces an \"open door\" policy for African professionals, offering visas on arrival to boost its vision of becoming the tech hub of the continent.",
     "push_pull_factors": "High population density and strict political control act as minor push factors for some citizens seeking opportunities abroad. Exceptional public safety, rapid modernization, and aggressive pan-African visa policies serve as massive pull factors for regional talent."
-  },
-  "652": {
-    "country_name": "Saint Barthélemy",
-    "population_2025": "11,000",
-    "migration_summary": "Saint Barthélemy in 2026 remains a highly exclusive overseas collectivity of France, catering almost entirely to the global ultra-wealthy. The tiny island experiences a highly seasonal migration of wealthy expatriates and luxury tourism workers. Stringent local regulations and astronomical housing costs effectively bar any permanent migration from lower-income individuals.",
-    "economic_factors": "The economy is entirely driven by ultra-luxury tourism, yachting, and high-end real estate development. The massive demand for luxury services requires a seasonal influx of hospitality workers from mainland France and Europe.",
-    "social_factors": "The resident population is highly affluent, resulting in a society completely insulated from the poverty found in neighboring Caribbean islands. The lack of affordable housing forces many essential service workers to commute via ferry from the neighboring island of Saint Martin.",
-    "government_policies": "The local government exercises tight control over urban development and real estate, deliberately keeping the housing supply limited to maintain exclusivity. Immigration policies follow French national law, but practical entry is dictated entirely by the immense financial barrier to living on the island.",
-    "push_pull_factors": "The absolute lack of affordable housing and non-tourism career paths act as the singular push factors for the working class. The pristine environment, absolute safety, and tax advantages serve as the ultimate pull factors for the global elite."
-  },
-  "654": {
-    "country_name": "Saint Helena, Ascension and Tristan da Cunha",
-    "population_2025": "6,000",
-    "migration_summary": "In 2026, this extraordinarily remote British Overseas Territory faces a persistent demographic challenge characterized by the steady emigration of its youth. The recent expansion of commercial air access has paradoxically accelerated the brain drain by making it easier to leave for the UK or the Falkland Islands. The territory relies heavily on a small rotational workforce of international contractors to maintain essential services.",
-    "economic_factors": "The economy is highly dependent on British financial aid, with the local private sector restricted to small-scale fishing and limited eco-tourism. A lack of high-paying jobs and specialized career progression forces ambitious young 'Saints' to seek employment overseas.",
-    "social_factors": "The out-migration has led to a rapidly aging population, threatening the long-term sustainability of the isolated community. The extreme geographic isolation fosters a tight-knit society, but heavily limits access to advanced healthcare and higher education.",
-    "government_policies": "The local government actively attempts to attract diaspora 'Saints' to return and invest in the burgeoning tourism sector. Authorities also tightly regulate the influx of foreign contractors to ensure they do not permanently displace local employment opportunities.",
-    "push_pull_factors": "Extreme geographic isolation, limited economic prospects, and lack of advanced medical care act as the primary push factors. The absolute safety, unique community spirit, and the right to live and work in the UK serve as the complex mix of pull factors."
   },
   "659": {
     "country_name": "Saint Kitts and Nevis",
@@ -1529,6 +1475,15 @@
     "government_policies": "The government has controversially lowered the retirement age and offered unpaid leave to public sector workers specifically to encourage them to find overseas employment and send back remittances. Authorities are desperately attempting to digitize services and offer tax exemptions to attract diaspora capital back into the struggling domestic economy.",
     "push_pull_factors": "High taxes, political disillusionment, and a high cost of living act as the primary, relentless push factors driving the professional class away. The demand for skilled labor in the West and the promise of a stable, hard currency act as overwhelming pull factors."
   },
+  "275": {
+    "country_name": "State of Palestine",
+    "population_2025": "5,500,000",
+    "migration_summary": "In 2026, the State of Palestine is enduring an unprecedented, catastrophic forced displacement crisis, particularly in the Gaza Strip following the devastations of recent wars. The entire population of Gaza has been internally displaced multiple times, facing extreme starvation and the total destruction of civilian infrastructure. In the West Bank, escalating settlement expansion and military checkpoints severely restrict movement and drive localized displacement.",
+    "economic_factors": "The Palestinian economy has been completely obliterated, with the historical reliance on labor inside Israel abruptly severed. The population is entirely dependent on international humanitarian aid, which is frequently obstructed by border closures and conflict.",
+    "social_factors": "Society is traumatized by unimaginable loss of life, the destruction of universities and hospitals, and the erasure of entire neighborhoods. The forced fragmentation of families and the lack of basic survival resources have created a generational humanitarian catastrophe.",
+    "government_policies": "The fragmented Palestinian governance structures are practically powerless to protect citizens or manage borders, which are entirely controlled by Israel and Egypt. International diplomacy focuses heavily on securing basic humanitarian corridors, as the right of return or emigration remains highly restricted and politically explosive.",
+    "push_pull_factors": "Relentless military bombardment, total infrastructural collapse, and military occupation are absolute, life-threatening push factors. The desperate, basic human need for physical safety, food, and medical care acts as the sole driver for those attempting to flee."
+  },
   "729": {
     "country_name": "Sudan",
     "population_2025": "50,500,000",
@@ -1573,15 +1528,6 @@
     "social_factors": "The society is deeply fractured along sectarian and political lines, with widespread fear of arbitrary arrest and forced conscription preventing young men from returning. The internal displacement camps in Idlib are catastrophically overcrowded, suffering from severe outbreaks of disease and extreme winter conditions.",
     "government_policies": "The regime utilizes draconian security laws to confiscate the property of those who fled, effectively engineering demographic changes in formally rebellious areas. Regional host countries are increasingly implementing forced deportation campaigns, returning desperate Syrians to a country still fundamentally unsafe.",
     "push_pull_factors": "Total economic ruin, forced military conscription, and the absolute lack of civil rights act as unrelenting, permanent push factors. The desire for family reunification and basic physical safety in European or regional host nations remain the sole pull factors."
-  },
-  "158": {
-    "country_name": "Taiwan",
-    "population_2025": "23,400,000",
-    "migration_summary": "Taiwan's migration profile in 2026 is heavily dominated by its acute demographic decline and the overarching geopolitical threat from mainland China. To sustain its world-leading semiconductor industry and elderly care sectors, the island relies extensively on hundreds of thousands of migrant workers from Southeast Asia. Simultaneously, persistent geopolitical anxieties drive a steady, quiet emigration of wealthy elites and professionals securing second passports abroad.",
-    "economic_factors": "The rapidly shrinking domestic workforce necessitates the massive importation of laborers from Indonesia, Vietnam, and the Philippines to keep the industrial and healthcare sectors functioning. The global dominance of the Taiwanese tech sector attracts highly skilled international engineers, though strict naturalization laws often prevent permanent settlement.",
-    "social_factors": "The society is heavily reliant on foreign domestic workers for eldercare, frequently sparking debates regarding the labor rights and social inclusion of this vulnerable demographic. The constant threat of military conflict creates an underlying societal anxiety, normalizing the pursuit of foreign residency among the upper-middle class as an \"insurance policy.\"",
-    "government_policies": "The government aggressively recruits foreign talent through the \"Gold Card\" visa program, offering flexible residency and tax incentives to high-level tech professionals. Authorities tightly regulate blue-collar migrant labor through a broker system, strictly limiting their ability to change employers or obtain permanent residency.",
-    "push_pull_factors": "The existential threat of military invasion and intense academic competition act as the primary, highly potent push factors. World-class healthcare, an open democratic society, and high-tech salaries serve as massive pull factors for regional Asian labor."
   },
   "762": {
     "country_name": "Tajikistan",
@@ -1656,7 +1602,7 @@
     "push_pull_factors": "Economic stagnation, democratic backsliding, and a lack of social mobility act as powerful push factors for both Tunisians and transiting migrants. The geographic proximity to the Italian island of Lampedusa acts as the overwhelming, desperate pull factor."
   },
   "792": {
-    "country_name": "Turkey",
+    "country_name": "Türkiye",
     "population_2025": "86,500,000",
     "migration_summary": "In 2026, Turkey remains the world's largest host of refugees, sheltering millions of displaced Syrians, Afghans, and Iraqis. The sheer demographic weight of this population has created intense domestic political backlash, driving the government to increasingly promote policies of \"voluntary return\" to Northern Syria. Concurrently, Turkey suffers from a massive brain drain as thousands of its own doctors, academics, and youth emigrate to Europe to escape economic volatility.",
     "economic_factors": "Chronic hyperinflation and a collapsing Lira have devastated the domestic economy, drastically reducing the living standards of both native citizens and refugees. The informal economy relies heavily on exploitative, cheap refugee labor to sustain the textile, construction, and agricultural sectors.",
@@ -1753,6 +1699,15 @@
     "social_factors": "The heavy participation in overseas labor schemes causes severe localized labor shortages, threatening traditional subsistence agriculture and community cohesion. Rapid urbanization in Port Vila driven by climate shocks has led to the growth of informal settlements that lack basic sanitation and infrastructure.",
     "government_policies": "The government relies heavily on seasonal worker programs but struggles to balance the economic benefits against the social cost of family separation. Authorities are increasingly focused on climate adaptation, attempting to secure international funding to build resilient infrastructure and manage internal displacement.",
     "push_pull_factors": "Vulnerability to catastrophic cyclones and a total lack of domestic private-sector jobs act as severe push factors. The high wages of the Australian agricultural sector and the demand for foreign passports act as the primary pull factors."
+  },
+  "336": {
+    "country_name": "Vatican City",
+    "population_2025": "800",
+    "migration_summary": "Vatican City has a highly unique migration profile, as it possesses no natural-born citizen population and grants citizenship exclusively based on appointment to papal service. Migration into the microstate consists entirely of Catholic clergy, Swiss Guards, and diplomats arriving for official religious and administrative duties. Once an individual's service concludes, their Vatican citizenship is immediately revoked, and they must migrate back to their home countries or to Italy. Consequently, the state experiences a complete population turnover over time, with absolutely zero irregular or civilian economic migration.",
+    "economic_factors": "Economic migration does not exist in the traditional sense, as residency is strictly and exclusively tied to direct employment within the Holy See. However, the Vatican heavily relies on thousands of Italian civilian commuters who cross the border daily for work but are legally prohibited from residing within the state.",
+    "social_factors": "The social environment is completely homogeneous, consisting almost entirely of adult, deeply religious Catholic professionals, diplomats, and male clergy. There are absolutely no familial migration patterns, public civilian schools, or cultural integration challenges within its strictly monitored walls.",
+    "government_policies": "Vatican citizenship and residency are fiercely regulated and legally restricted to those explicitly authorized by the Pope or his immediate administration. The state maintains absolute, unyielding control over its borders, entirely prohibiting unauthorized immigration, asylum processing, or permanent civilian settlement.",
+    "other_push_pull_factors": "The ultimate pull factor is profound religious devotion and the immense prestige of being called to serve at the spiritual epicenter of the global Roman Catholic Church. Conversely, the strict celibacy requirements for clergy and the absolute impossibility of private property ownership serve as structural push factors preventing any multi-generational settlement."
   },
   "862": {
     "country_name": "Venezuela",

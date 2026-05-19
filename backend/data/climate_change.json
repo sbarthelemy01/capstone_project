@@ -76,6 +76,16 @@
     "climate_policies": "Argentina’s 2025 policy includes incentives for 'lithium-based' green energy storage to leverage its natural resources. However, the 2024-2025 fiscal challenges have slowed some of the planned infrastructure investments in the 'RenovAr' renewable program.",
     "other_impacts": "Wheat exports in 2024 were down by 30%, significantly impacting the country's foreign currency reserves."
   },
+  "051": {
+    "country_name": "Armenia",
+    "population_2025": "2,800,000",
+    "climate_change_summary": "Armenia is highly vulnerable to climate change due to its mountainous terrain and arid regions, with significant impacts already visible across its agricultural and water sectors. Entering 2025, decreasing precipitation and accelerated evaporation are putting immense stress on vital national water resources like Lake Sevan. The country is experiencing a faster-than-global-average warming trend, threatening the livelihoods of rural farming communities. Consequently, national efforts are urgently shifting toward climate resilience and structural water conservation.",
+    "surface_temperature_changes": "Armenia has recorded surface temperature increases exceeding 1.3°C above historical baselines, significantly outpacing the global average. This rapid warming exacerbates summer heatwaves and accelerates the dangerous melting of the country's limited high-altitude snow cover.",
+    "severe_weather_patterns": "The frequency and intensity of extreme weather events, including prolonged droughts, late-spring frosts, and destructive hailstorms, have markedly increased. These increasingly erratic weather shifts cause severe annual disruptions to agricultural cycles and damage critical rural infrastructure.",
+    "human_health_impacts": "Rising temperatures have led to a noticeable increase in heat-related illnesses and cardiovascular stress, particularly among the elderly in dense urban centers like Yerevan. Furthermore, warming climate conditions are expanding the geographic range of vector-borne diseases into previously unaffected, higher-altitude regions.",
+    "environmental_impacts": "Widespread desertification and soil degradation are advancing in the lower agricultural zones, heavily threatening domestic food security and rural ecosystems. Lake Sevan, the country's most critical freshwater reserve, faces dangerous drops in water levels and increasing toxic algal blooms due to severe thermal stress.",
+    "climate_policies": "Armenia's recently updated Nationally Determined Contributions (NDCs) commit to significantly reducing greenhouse gas emissions and massively expanding renewable energy, specifically solar power. The government is also heavily investing in National Adaptation Plans focused on modernizing outdated irrigation networks and protecting vital forest ecosystems from wildfires."
+  },
   "036": {
     "country_name": "Australia",
     "population_2025": 26800000,
@@ -407,7 +417,7 @@
     "other_impacts": "The vanilla and clove industries, which are the main sources of foreign exchange, were impacted by the 2024 cyclone damage, leading to a 15% drop in exports."
   },
   "178":{
-    "country_name": "Congo (Congo-Brazzaville)",
+    "country_name": "Congo",
     "population_2025": 6200000,
     "climate_change_summary": "The Republic of the Congo is a central guardian of the Congo Basin's peatlands, which store vast amounts of carbon and are critical to global climate stability in 2025. The country is facing increased rainfall variability, with the 2024 season bringing historic flooding to the Congo River basin. These floods have displaced thousands and caused significant damage to the country's limited transportation infrastructure. The government is currently seeking to monetize its 'carbon credits' to fund sustainable development and protect its primary forests from industrial logging.",
     "surface_temperature_changes": "Temperatures in the northern rainforest zones of Congo increased by 1.1°C in 2024, which has slightly altered the fruiting cycles of local trees. This change is impacting the traditional hunting and gathering practices of the Indigenous communities in the region.",
@@ -416,17 +426,6 @@
     "environmental_impacts": "The peatlands of the Cuvette Centrale are at risk of drying out if river levels fluctuate too wildly, which could release massive amounts of methane. Forest loss due to the expansion of subsistence agriculture and charcoal production remains a significant concern in 2025.",
     "climate_policies": "Congo's 2025 climate policy is focused on the 'Blue Fund for the Congo Basin,' which aims to promote sustainable economic activities. In 2024, the government introduced new laws to strictly limit the expansion of palm oil plantations into primary forest areas.",
     "other_impacts": "Transportation of timber and other goods was severely disrupted in 2024 as the flooding rendered many arterial roads and river ports unusable."
-  },
-  "180":{
-    "country_name": "Congo (Democratic Republic of)",
-    "population_2025": 105000000,
-    "climate_change_summary": "The Democratic Republic of the Congo (DRC) is arguably the most important country for global climate mitigation due to its massive rainforests and critical mineral reserves for the energy transition as of 2025. However, the nation is suffering from extreme climatic events, with the 2024 floods being the most devastating in decades. These floods, combined with ongoing conflict in the east, have created a massive internal displacement crisis. The government is trying to balance its sovereign right to exploit its oil and gas reserves with its commitment to protecting the Congo Basin forests.",
-    "surface_temperature_changes": "Average temperatures in the Congo Basin have risen by 1.2°C since the pre-industrial period, with 2024 being one of the hottest years on record. This warming is affecting the growth rates of some tropical tree species and increasing the risk of forest fires.",
-    "severe_weather_patterns": "The 2023-2024 rainy season saw unprecedented precipitation levels, leading to the overflowing of the Congo River and its tributaries. These floods submerged entire neighborhoods in Kinshasa and destroyed thousands of hectares of crops in the central provinces.",
-    "human_health_impacts": "The 2024 floods led to a major spike in cholera, malaria, and measles cases across the country, straining an already fragile health system. Malnutrition has also worsened as the floods destroyed the household gardens that provide essential nutrients for millions.",
-    "environmental_impacts": "Deforestation in the DRC remains a critical issue, with nearly 500,000 hectares lost in 2024 due to logging, mining, and charcoal production. The loss of these forests is reducing the country's capacity to regulate its own rainfall and store carbon.",
-    "climate_policies": "The DRC’s 2025 strategy focuses on securing fair compensation for its forest conservation efforts through international carbon markets. In 2024, the government also launched a new initiative to promote the sustainable mining of 'green minerals' like cobalt and copper.",
-    "other_impacts": "The flooding in 2024 caused billions of dollars in damage to infrastructure and has significantly slowed the country's economic growth projections for 2025."
   },
   "188":{
     "country_name": "Costa Rica",
@@ -438,6 +437,16 @@
     "environmental_impacts": "The Monteverde Cloud Forest is experiencing a 'drying out' effect as the cloud bank moves to higher altitudes, threatening endemic species like the Resplendent Quetzal. Coastal coral reefs are also suffering from bleaching due to the 2024-2025 marine heatwaves.",
     "climate_policies": "Costa Rica's 2025 'National Decarbonization Plan' focuses on the complete electrification of the public transport system. The government also expanded its 'Payment for Environmental Services' (PSA) program in 2024 to include more smallholder farmers.",
     "other_impacts": "Hydropower generation fell by 15% in 2024 due to the drought, forcing the temporary use of expensive thermal backup power."
+  },
+  "384": {
+    "country_name": "Cote d'Ivoire",
+    "population_2025": "31,000,000",
+    "climate_change_summary": "Côte d'Ivoire faces severe climate change consequences that directly threaten its economic backbone, particularly its status as the world's leading cocoa producer. Throughout 2024 and 2025, unpredictable rainfall and rising temperatures have heavily disrupted agricultural yields, causing severe global market ripples and domestic economic anxiety. Coastal communities and the economic capital, Abidjan, are simultaneously battling rapidly rising sea levels and devastating urban flooding. The combination of deep economic reliance on agriculture and extreme coastal vulnerability makes climate adaptation a critical national survival priority.",
+    "surface_temperature_changes": "Average surface temperatures across the country have steadily risen, contributing to massive evapotranspiration and prolonged, harsh dry seasons in the northern savanna regions. This thermal shift severely disrupts the delicate, highly specific microclimates required for optimal cocoa and cashew cultivation.",
+    "severe_weather_patterns": "The country is experiencing highly erratic rainfall patterns, characterized by delayed rainy seasons followed by intensely concentrated, highly destructive downpours. These torrential rains frequently trigger catastrophic flash floods and deadly landslides, especially in the densely populated, low-lying informal settlements of Abidjan.",
+    "human_health_impacts": "Severe flooding events frequently lead to deadly outbreaks of water-borne diseases like cholera and heavily overwhelm urban sanitation and sewage systems. Additionally, warmer and more humid conditions have prolonged the transmission seasons for malaria, severely straining the public healthcare grid.",
+    "environmental_impacts": "Rapid coastal erosion is aggressively swallowing massive stretches of the shoreline, displacing historical fishing communities and destroying vital, protective mangrove ecosystems. Inland, intense climate stress combined with massive historical deforestation has severely degraded soil fertility and rapidly accelerated the loss of national biodiversity.",
+    "climate_policies": "The government's recent climate strategy heavily emphasizes the 'Abidjan Legacy Program,' focusing on massive reforestation and sustainable agricultural practices to rapidly restore degraded lands. Internationally, Côte d'Ivoire is actively partnering with the EU and global chocolate manufacturers to aggressively enforce zero-deforestation supply chains and heavily promote climate-smart cocoa farming."
   },
   "191":{
     "country_name": "Croatia",
@@ -473,7 +482,7 @@
     "other_impacts": "The cost of electricity for cooling in 2024 reached an all-time high, prompting the government to provide emergency subsidies for vulnerable households."
   },
   "203":{
-    "country_name": "Czechia (Czech Republic)",
+    "country_name": "Czech Republic (Czechia)",
     "population_2025": 10500000,
     "climate_change_summary": "Czechia is dealing with a significant shift in its hydrological cycle, with 2024 being marked by record-breaking summer heat followed by unseasonable winter flooding. The country's vital forestry sector is in crisis as the drought-stressed spruce forests are being decimated by bark beetle infestations as of 2025. The government is currently managing a rapid transition away from coal, aiming to shut down all coal-fired power plants by 2033. The 2025 climate strategy focuses on 'Landscape Water Retention' and the modernization of the agricultural sector.",
     "surface_temperature_changes": "Average surface temperatures in Czechia rose by 1.8°C in 2024, with the number of 'tropical days' (above 30°C) reaching a new record in South Moravia. These heatwaves are now starting earlier and lasting longer than in previous decades.",
@@ -526,6 +535,17 @@
     "environmental_impacts": "The Sargassum seaweed invasion, fueled by warming oceans and nutrient runoff, was particularly severe in 2024, clogging beaches and impacting marine life. Coastal mangroves are also being lost to rising sea levels and urban expansion.",
     "climate_policies": "The Dominican Republic’s 2025 climate policy includes a new 'Master Plan for Coastal Protection' and a push for 30% renewable energy by 2030. In 2024, the government launched a major initiative for the reforestation of the country's watersheds.",
     "other_impacts": "The tourism sector, which accounts for 15% of the country’s GDP, saw a 5% dip in early 2025 as visitors were deterred by the heat and Sargassum issues."
+  },
+  "180":{
+    "country_name": "Democratic Republic of the Congo",
+    "population_2025": 105000000,
+    "climate_change_summary": "The Democratic Republic of the Congo (DRC) is arguably the most important country for global climate mitigation due to its massive rainforests and critical mineral reserves for the energy transition as of 2025. However, the nation is suffering from extreme climatic events, with the 2024 floods being the most devastating in decades. These floods, combined with ongoing conflict in the east, have created a massive internal displacement crisis. The government is trying to balance its sovereign right to exploit its oil and gas reserves with its commitment to protecting the Congo Basin forests.",
+    "surface_temperature_changes": "Average temperatures in the Congo Basin have risen by 1.2°C since the pre-industrial period, with 2024 being one of the hottest years on record. This warming is affecting the growth rates of some tropical tree species and increasing the risk of forest fires.",
+    "severe_weather_patterns": "The 2023-2024 rainy season saw unprecedented precipitation levels, leading to the overflowing of the Congo River and its tributaries. These floods submerged entire neighborhoods in Kinshasa and destroyed thousands of hectares of crops in the central provinces.",
+    "human_health_impacts": "The 2024 floods led to a major spike in cholera, malaria, and measles cases across the country, straining an already fragile health system. Malnutrition has also worsened as the floods destroyed the household gardens that provide essential nutrients for millions.",
+    "environmental_impacts": "Deforestation in the DRC remains a critical issue, with nearly 500,000 hectares lost in 2024 due to logging, mining, and charcoal production. The loss of these forests is reducing the country's capacity to regulate its own rainfall and store carbon.",
+    "climate_policies": "The DRC’s 2025 strategy focuses on securing fair compensation for its forest conservation efforts through international carbon markets. In 2024, the government also launched a new initiative to promote the sustainable mining of 'green minerals' like cobalt and copper.",
+    "other_impacts": "The flooding in 2024 caused billions of dollars in damage to infrastructure and has significantly slowed the country's economic growth projections for 2025."
   },
   "218":{
     "country_name": "Ecuador",
@@ -1781,6 +1801,16 @@
     "climate_policies": "Sri Lanka's 2025 adaptation plan is heavily focused on securing international 'Loss and Damage' funds. The government is pushing to modernize its meteorological department for better early warning and is restoring ancient inland water tanks (wewas) to combat drought.",
     "other_impacts": "The vital tea export industry suffered a massive blow in 2024, first from excessive rain causing root rot, and then from heat stress, impacting the quality and quantity of the harvest and reducing crucial foreign exchange."
   },
+  "275": {
+    "country_name": "State of Palestine",
+    "population_2025": "5,500,000",
+    "climate_change_summary": "The State of Palestine faces acute climate vulnerabilities that are profoundly compounded by ongoing geopolitical conflict and severe restrictions on environmental management. As of 2024-2025, intense water scarcity remains the most critical climate threat, with shifting rainfall patterns drastically reducing available freshwater in both the West Bank and Gaza. Agricultural livelihoods are constantly threatened by advancing desertification and prolonged, blistering extreme heat. The lack of sovereign control over natural resources and borders severely limits the implementation of large-scale, effective climate adaptation strategies.",
+    "surface_temperature_changes": "The region is experiencing a drastic increase in mean surface temperatures, with recent summers repeatedly breaking historical heat records across the Eastern Mediterranean. This sustained, intense warming massively accelerates soil moisture loss and dramatically increases the evapotranspiration rate of sparse local vegetation.",
+    "severe_weather_patterns": "Palestine is increasingly subjected to prolonged, blistering heatwaves and a significant reduction in annual precipitation, fundamentally altering historical agricultural and seasonal cycles. When rain does fall, it frequently arrives in short, intense bursts that dry soil cannot absorb, leading to highly destructive localized flash floods.",
+    "human_health_impacts": "Chronic water shortages and the massive destruction of sanitation infrastructure severely restrict access to safe drinking water, causing rampant outbreaks of completely preventable gastrointestinal diseases. Extreme summer heatwaves pose a massive, direct mortality threat to vulnerable, displaced populations living in inadequate, heavily damaged shelters without access to vital cooling.",
+    "environmental_impacts": "Diminishing rainfall prevents the natural recharge of the critical coastal and mountain aquifers, leading to severe saltwater intrusion and largely irreversible groundwater contamination. The fragile Mediterranean ecosystem is suffering from rapid desertification, deeply threatening endemic flora and centuries-old traditional olive grove cultivation.",
+    "climate_policies": "Palestinian climate policy is heavily focused on desperate, grassroots adaptation measures, prioritizing localized water harvesting, wastewater reuse, and the widespread promotion of drought-resistant crop varieties. Despite operating under extreme institutional and physical constraints, authorities rely heavily on international climate finance and NGO partnerships to implement decentralized solar energy grids and vital emergency water security projects."
+  },
   "729":{
     "country_name": "Sudan",
     "population_2025": 49000000,
@@ -1868,6 +1898,16 @@
     "environmental_impacts": "The Gulf of Thailand experienced severe marine heatwaves in 2024, causing extensive coral bleaching. Saltwater intrusion is creeping further up the Chao Phraya river, threatening Bangkok's freshwater supply and surrounding orchards.",
     "climate_policies": "The 2025 'National Adaptation Plan' focuses on massive, multi-billion dollar flood diversion channels around Bangkok and subsidizing a transition away from water-intensive rice farming toward high-value, drought-resistant crops.",
     "other_impacts": "The 2024 drought significantly reduced the rice harvest, causing Thailand to temporarily lose its position as the world's second-largest rice exporter and triggering domestic economic anxiety."
+  },
+  "626": {
+    "country_name": "Timor-Leste",
+    "population_2025": "1,380,000",
+    "climate_change_summary": "Timor-Leste is a small, mountainous island developing state that faces acute vulnerabilities to climate change, particularly regarding food security and coastal infrastructure. Throughout 2024 and 2025, the nation has grappled with the intense whiplash of El Niño-induced droughts followed by unpredictable, heavy monsoon rains. Because the vast majority of the population relies heavily on rain-fed subsistence agriculture, these erratic climate shifts severely threaten rural livelihoods and the crucial coffee export sector. Consequently, building climate resilience and securing vital water resources has become an existential priority for the young nation's continued development.",
+    "surface_temperature_changes": "The country has recorded steady increases in mean surface temperatures, particularly exacerbating the blistering heat and aridity of the dry season across the northern coast. These elevated temperatures severely stress rain-fed agricultural systems and rapidly accelerate the evaporation of vital, limited local water reservoirs.",
+    "severe_weather_patterns": "Timor-Leste is increasingly battered by extreme weather volatility, where prolonged, devastating dry spells are violently interrupted by highly concentrated torrential downpours. These intense rainfall events frequently trigger massive, deadly landslides in the steep, deforested mountainous interior and cause severe, destructive flash flooding in the coastal capital of Dili.",
+    "human_health_impacts": "The frequent, severe flooding creates ideal breeding grounds for mosquitoes, leading to alarming, recurrent spikes in vector-borne diseases such as dengue fever across urban and rural zones. Furthermore, repeated crop failures driven by these climate extremes heavily exacerbate chronic food insecurity and stubbornly high malnutrition rates among rural children.",
+    "environmental_impacts": "Rapid coastal erosion and rising sea levels persistently threaten coastal communities and critical, protective mangrove ecosystems. Simultaneously, warming ocean temperatures induce severe, recurrent coral bleaching within its highly biodiverse marine territories, while extreme rainfall dramatically accelerates topsoil erosion on the mainland.",
+    "climate_policies": "The government is actively implementing its National Adaptation Plan (NAP), heavily supported by the Green Climate Fund, to install and modernize nationwide early warning systems for floods and droughts. Agricultural policies are aggressively pivoting toward distributing climate-resilient crop varieties and heavily promoting sustainable agroforestry to protect the highly vulnerable, vital coffee sector."
   },
   "768":{
     "country_name": "Togo",

@@ -216,7 +216,7 @@
     "environmental_factors": "Deforestation in the Amazon is linked to the emergence of new zoonotic diseases and changes in malaria patterns. Urban air pollution and frequent heatwaves in cities like São Paulo are driving a surge in cardiovascular emergencies in 2026."
   },
   "096": {
-    "country_name": "Brunei Darussalam",
+    "country_name": "Brunei",
     "population_2025": "460,000",
     "health_summary": "Brunei offers free, comprehensive healthcare to all citizens, funded entirely by the state’s oil and gas revenues. In 2026, the 'Vision 2035' health goals are in full swing, focusing on world-class specialist centers for oncology and neurosurgery. The nation enjoys high life expectancy and very low maternal and infant mortality rates.",
     "healthcare_access": "Accessibility is excellent, with a high concentration of modern clinics and hospitals throughout the small territory. For highly specialized procedures not available locally, the government fully funds patient travel to international medical hubs.",
@@ -287,15 +287,6 @@
     "social_factors": "The mental health of youth (aged 12-25) is a major focus, supported by a newly established Youth Mental Health Fund. Addressing health inequities within Black, Indigenous, and 2SLGBTQI+ communities is central to the 2026-2027 health equity roadmap.",
     "environmental_factors": "Wildfire smoke has become a recurring seasonal health risk, leading to new national guidelines for indoor air quality and respiratory protection. Canada is also aligning its chemical regulations with international 'green' standards to reduce environmental toxins linked to chronic illnesses."
   },
-  "136": {
-    "country_name": "Cayman Islands",
-    "population_2025": "70,000",
-    "health_summary": "In 2026, the Cayman Islands government is transitioning its Public Health Unit to the Ministry of Health, Environment, and Sustainability to better align data with national policy. The focus has shifted from reactive care to proactive health protection, with a strong emphasis on managing the rising rates of lifestyle-related diseases. The territory maintains some of the highest standards of clinical care in the Caribbean region.",
-    "healthcare_access": "The Islands boast a robust health infrastructure with two main hospitals on Grand Cayman and a smaller facility on Cayman Brac. In 2026, the government is expanding specialized services to ensure that residents do not have to travel abroad for oncology or cardiac interventions.",
-    "disease_prevention_management": "A new national screening program for diabetes and hypertension has been launched in 2026 to address the high metabolic risk factors in the population. The territory also maintains strict biosafety protocols to prevent the local transmission of Zika and Dengue.",
-    "social_factors": "As an affluent society, the primary social health challenge is sedentary lifestyle and childhood obesity. The 'Health in the Workplace' initiative is a major 2026 policy aimed at improving the wellbeing of the diverse expatriate and local workforce.",
-    "environmental_factors": "The preservation of the marine environment is directly linked to public health, with 2026 regulations focusing on maintaining pristine water quality to prevent dermatological and gastrointestinal issues. Coastal resilience remains a health priority given the high vulnerability to hurricane-related flooding."
-  },
   "140": {
     "country_name": "Central African Republic",
     "population_2025": "5,800,000",
@@ -332,24 +323,6 @@
     "social_factors": "The 'Silver Economy' is driving innovations in elderly care, as the nation grapples with one of the world's fastest-aging populations. Social support for 'empty nest' seniors is a growing focus for community-based health workers in 2026.",
     "environmental_factors": "Significant progress in reducing PM2.5 levels has led to a measurable decline in new asthma cases among urban children. However, the 2026 focus is shifting toward 'carbon-neutral health'—reducing the environmental footprint of the massive hospital network."
   },
-  "162": {
-    "country_name": "Christmas Island",
-    "population_2025": "1,700",
-    "health_summary": "Christmas Island, an external territory of Australia, receives health services primarily through the Christmas Island Health Service (CIHS). In 2026, the health focus is on maintaining a 'Fly-In Fly-Out' specialist network to provide care that would otherwise require travel to Perth. The population's health profile is similar to regional Australia, with a focus on aging and chronic disease management.",
-    "healthcare_access": "Primary care is provided at the local hospital on the island, which is well-equipped for emergencies and basic surgery. For complex conditions, patients are medically evacuated to the Australian mainland, a process that is fully integrated into the territory's health budget.",
-    "disease_prevention_management": "Preventing the introduction of invasive disease vectors (like Aedes aegypti) is a key 2026 priority. The island maintains high vaccination rates, following the Australian National Immunization Program closely.",
-    "social_factors": "The multicultural nature of the island (Chinese, Malay, and European) requires health information to be delivered in multiple languages. The close-knit community structure provides a strong support system for the elderly and those with chronic conditions.",
-    "environmental_factors": "The island's unique ecosystem means that environmental health is focused on managing the impact of phosphate mining dust and protecting the water table. Air quality is generally excellent, monitored regularly by the Australian Bureau of Meteorology."
-  },
-  "166": {
-    "country_name": "Cocos (Keeling) Islands",
-    "population_2025": "600",
-    "health_summary": "The Cocos (Keeling) Islands health strategy in 2026 is governed by the 'Strategic Plan 2030,' which prioritizes community wellbeing and the preservation of a pristine environment. Health services are administered by the Australian Government, with a clinic on West Island and Home Island providing essential care to the small, harmonious community.",
-    "healthcare_access": "Access is localized with a focus on preventative care and maternal health. Because of the small population, most chronic or acute conditions require telehealth consultations with specialists in Western Australia or medical evacuation for inpatient care.",
-    "disease_prevention_management": "Biosecurity is the primary defense against infectious diseases; strict border controls on the airstrip and jetty are maintained. In 2026, community-wide wellness programs are focused on nutrition and physical activity to prevent the onset of type 2 diabetes.",
-    "social_factors": "The Cocos Malay culture is a central pillar of the social fabric, and health services are delivered with a high degree of cultural sensitivity. The islands' isolation fosters a high level of social resilience but also necessitates strong mental health support networks.",
-    "environmental_factors": "As low-lying coral atolls, the islands are extremely vulnerable to sea-level rise and saltwater intrusion into the freshwater lens. In 2026, health planning includes 'climate-resilient' water management to ensure a safe supply of drinking water for all residents."
-  },
   "170": {
     "country_name": "Colombia",
     "population_2025": "52,600,000",
@@ -369,7 +342,7 @@
     "environmental_factors": "Waste management and poor drainage in urban areas like Moroni are major contributors to the spread of waterborne diseases. The islands' vulnerability to climate change is reflected in more frequent storm surges that damage coastal health infrastructure."
   },
   "178": {
-    "country_name": "Congo, Republic of the",
+    "country_name": "Congo (Congo-Brazzaville)",
     "population_2025": "6,300,000",
     "health_summary": "The health landscape of the Republic of the Congo in 2026 is dominated by the management of preventable infectious diseases like malaria, tuberculosis, and respiratory infections. While Brazzaville and Pointe-Noire house the country's two largest hospitals, the 2026 'National Health Map' aims to decentralize specialized care. The system is currently working to improve maternal and child health centers which remain under-resourced.",
     "healthcare_access": "Education and health are officially free, but informal costs often limit access for the poorest. Mobile health units are the primary method for reaching remote communities in the Sangha and Likouala rainforest regions, where sleeping sickness and leprosy are still present.",
@@ -378,22 +351,13 @@
     "environmental_factors": "Water pollution in the Congo River basin is a major public health concern, contributing to high rates of intestinal parasites. The 2026 focus is on improving urban sanitation and protecting the health of communities living near oil-refining hubs."
   },
   "180": {
-    "country_name": "Congo, Democratic Republic of the",
+    "country_name": "Democratic Republic of the Congo",
     "population_2025": "108,000,000",
     "health_summary": "The Democratic Republic of the Congo is managing one of the world's most complex health emergencies in 2026, with 7.5 million people in need of urgent assistance. The country is dealing with concurrent outbreaks of mpox, cholera, measles, and Ebola. Despite these challenges, the 'Universal Health Coverage' roadmap is being piloted in Kinshasa to provide basic care to the most vulnerable.",
     "healthcare_access": "In conflict-affected eastern provinces like North Kivu and Ituri, health services are often provided in temporary clinics or through mobile WHO-supported teams. Nationwide, the shortage of medical equipment and reliable electricity in rural 'health zones' remains a critical barrier to care.",
     "disease_prevention_management": "In 2026, the DRC is a global focal point for mpox vaccination and research. The government is also conducting mass vaccination campaigns for measles and polio to curb high child mortality rates. Malaria remains the leading cause of death and is the focus of a nation-wide bed net distribution in early 2026.",
     "social_factors": "Internal displacement of over 6 million people has created massive hygiene and nutritional challenges. High levels of sexual violence in conflict zones necessitate specialized medical and psychological care that is currently in short supply.",
     "environmental_factors": "Vast rainforests and frequent floods create ideal conditions for zoonotic and waterborne disease transmission. In 2026, 'One Health' surveillance is being strengthened to monitor the animal-human interface for potential new pandemic threats."
-  },
-  "184": {
-    "country_name": "Cook Islands",
-    "population_2025": "17,000",
-    "health_summary": "The Cook Islands health system in 2026 is focused on the 'Healthy Islands' framework, emphasizing the link between human health and a changing climate. The nation faces an immense burden of non-communicable diseases (NCDs), with diabetes and heart disease being the leading causes of morbidity. Public health efforts are directed toward stabilizing these rates through community-based 'wellness hubs.'",
-    "healthcare_access": "Residents on Rarotonga have access to modern hospital facilities, but those on the 'Outer Islands' (Pa Enua) rely on nurse-led clinics and periodic visits from medical specialists. The 2026 'Island Link' program uses advanced telemedicine to provide real-time specialist support to remote clinics.",
-    "disease_prevention_management": "The 2026 health agenda focuses on preventing the spread of vector-borne diseases like Dengue, which have seen a rise due to warmer temperatures. National programs for NCD management include mandatory school nutrition standards and a 'Sugar Tax' on imported beverages.",
-    "social_factors": "A strong tradition of communal living supports the care of the elderly, but the 'brain drain' of young medical professionals to New Zealand is a major challenge for the 2026 health workforce. Health literacy is high, supported by multi-channel public health campaigns.",
-    "environmental_factors": "Sea-level rise and increasing tropical storm intensity threaten the stability of coastal health clinics and water sanitation systems. In 2026, the government is investing in 'climate-proof' infrastructure to ensure that essential services remain operational during extreme weather."
   },
   "188": {
     "country_name": "Costa Rica",
@@ -431,15 +395,6 @@
     "social_factors": "An exceptionally high literacy rate facilitates effective public health communication and high adherence to vaccination schedules. However, an aging demographic and low birth rates are creating a 'top-heavy' population structure that is straining the social care system.",
     "environmental_factors": "Vulnerability to hurricanes is a constant threat to medical infrastructure, requiring the world-renowned 'Civil Defense' health protocols for rapid response. In 2026, urban agriculture initiatives are being promoted to combat food insecurity and improve the nutritional quality of the public diet."
   },
-  "531": {
-    "country_name": "Curaçao",
-    "population_2025": "194,000",
-    "health_summary": "Curaçao’s health sector in 2026 is centered on the optimization of the Curaçao Medical Center (CMC), which serves as a regional hub for the Dutch Caribbean. The health system is transitioning toward a more sustainable funding model to manage the rising costs of tertiary care. Public health priorities are currently focused on obesity-related complications and mental health services.",
-    "healthcare_access": "Access to high-quality care is generally good, but the system faces challenges in recruiting enough specialized medical staff locally. In 2026, the government is expanding the 'Care Pathway' program to better coordinate services between primary care doctors and hospital specialists.",
-    "disease_prevention_management": "Vector control for Dengue and Chikungunya remains a high priority given the tropical climate and island geography. The 2026 'Dushi Salú' (Sweet Health) campaign focuses on reducing salt and sugar intake to combat the high prevalence of cardiovascular disease.",
-    "social_factors": "A multicultural society requires health services to be delivered in Papiamentu, Dutch, Spanish, and English. The island's status as a tourism hub necessitates robust border health surveillance to prevent the introduction of infectious diseases.",
-    "environmental_factors": "The proximity of industrial zones near residential areas in Willemstad remains a point of health monitoring for respiratory conditions. Water security is managed via desalination, which is critical for maintaining hospital hygiene standards during the dry season."
-  },
   "196": {
     "country_name": "Cyprus",
     "population_2025": "1,300,000",
@@ -450,7 +405,7 @@
     "environmental_factors": "Water scarcity and increasing heatwaves are the primary environmental health risks in 2026. The government has implemented a 'Heat Health Action Plan' that includes mandatory cooling breaks for outdoor workers and the installation of air purification systems in schools."
   },
   "203": {
-    "country_name": "Czechia",
+    "country_name": "Czech Republic (Czechia)",
     "population_2025": "10,600,000",
     "health_summary": "Czechia boasts a high-performance healthcare system with some of the best oncology and cardiology outcomes in Eastern Europe. In 2026, the 'National Health Digitization' plan has successfully connected all pharmacies and hospitals to a central e-prescription and record system. The country remains a top destination for medical tourism, particularly in spa-based rehabilitation and fertility treatments.",
     "healthcare_access": "Universal coverage is provided through a competitive health insurance market, with very low wait times compared to the EU average. In 2026, the focus is on strengthening primary care in the border regions of Sudetenland, where physician density is lower than in Prague or Brno.",
@@ -566,24 +521,6 @@
     "social_factors": "Cultural diversity requires highly localized health communication strategies. High fertility rates and early marriage continue to be social factors that the Ministry of Health is addressing through expanded reproductive health education and female empowerment programs.",
     "environmental_factors": "Severe drought and land degradation in the east and south contribute to high rates of malnutrition and displacement-related health issues. In 2026, the 'Green Legacy' initiative is being linked to health by promoting urban green spaces to improve air quality and mental health in rapidly growing cities."
   },
-  "238": {
-    "country_name": "Falkland Islands",
-    "population_2025": "3,800",
-    "health_summary": "The Falkland Islands provide high-quality healthcare through a single, centrally-funded system based in Stanley. In 2026, the focus is on maintaining a self-sufficient healthcare model while ensuring access to highly specialized care through international partnerships. The population's health profile is characterized by an aging demographic and lifestyle factors similar to those in the United Kingdom.",
-    "healthcare_access": "The King Edward VII Memorial Hospital (KEMH) provides comprehensive care, including basic surgery and maternity services. For specialized procedures, a long-standing 'Medical Evacuation' agreement ensures patients are flown to the UK or Chile for treatment, with costs fully covered by the local government.",
-    "disease_prevention_management": "Preventative care is centered on routine screenings for cardiovascular disease and cancer, with high participation rates. In 2026, a new 'Wellness Program' has been introduced to promote physical activity and healthy eating in the islands' unique sub-antarctic climate.",
-    "social_factors": "The close-knit community structure facilitates strong social support for the elderly and those with chronic illnesses. However, the isolation of the islands can present challenges for mental health, leading to 2026 initiatives focused on expanding counseling services and community-based support groups.",
-    "environmental_factors": "The pristine air and water quality contribute to low levels of respiratory and waterborne diseases. The primary environmental health concern is the risk of extreme weather events, necessitating robust emergency planning and resilient infrastructure for the islands' healthcare facilities."
-  },
-  "234": {
-    "country_name": "Faroe Islands",
-    "population_2025": "55,000",
-    "health_summary": "The Faroe Islands operate a comprehensive healthcare system under the Ministry of Health, emphasizing universal access and high clinical standards. In 2026, the 'FarGen' project is a cornerstone of the health strategy, using the unique genetic profile of the population to advance research into hereditary diseases. The system is currently modernizing its hospital infrastructure to provide more specialized services locally.",
-    "healthcare_access": "Healthcare is free for all residents and funded through general taxation. While the main hospital is in Tórshavn, secondary facilities on other islands ensure regional access. In 2026, advanced telemedicine and a specialized 'Patient Travel' system facilitate seamless care for those in the more remote fjords.",
-    "disease_prevention_management": "Public health efforts are focused on the early detection of cardiovascular disease and metabolic disorders. In 2026, the government is also tackling the high prevalence of certain rare genetic conditions through targeted screening and counseling programs for young families.",
-    "social_factors": "Strong family and community ties provide a robust safety net, contributing to high levels of social wellbeing. However, the 2026 health agenda is increasingly focused on the mental health of the youth, addressing the social pressures and isolation that can occur in small, island communities.",
-    "environmental_factors": "The clean, maritime environment supports a healthy lifestyle, but the high consumption of pilot whale meat remains a unique public health issue due to mercury and PCB levels. The government continues to issue strict dietary guidelines in 2026 to mitigate the health risks to pregnant women and children."
-  },
   "242": {
     "country_name": "Fiji",
     "population_2025": "940,000",
@@ -610,24 +547,6 @@
     "disease_prevention_management": "France has introduced a mandatory 'Prevention Consultation' at key life stages (25, 45, and 65 years) as of 2026 to early-detect chronic diseases. The government is also intensifying its campaign against antibiotic resistance, focusing on both human and animal health.",
     "social_factors": "High expectations for healthcare quality are balanced by a strong social safety net. In 2026, the government is also addressing the health needs of a diverse migrant population and tackling the 'loneliness epidemic' among the urban elderly through community-based initiatives.",
     "environmental_factors": "Air pollution in major cities like Paris and Lyon remains a significant health concern, driving the transition to low-emission zones. In 2026, the health system is also adapting to the increasing frequency of extreme heatwaves, with mandatory 'Cooling Plans' for all nursing homes and hospitals."
-  },
-  "254": {
-    "country_name": "French Guiana",
-    "population_2025": "320,000",
-    "health_summary": "French Guiana, an overseas department of France, faces unique health challenges related to its tropical climate and vast, remote Amazonian territory. In 2026, the health system is focused on improving maternal health and managing a high burden of infectious diseases like malaria and Dengue. The 'Cayenne Hospital' is currently being expanded to serve as a regional hub for tropical medicine and trauma care.",
-    "healthcare_access": "While the French social security system applies, the vast distances and lack of roads make access difficult for those living along the Maroni and Oyapock rivers. In 2026, the 'Piropue-based' mobile health units and expanded helicopter evacuation services are critical for reaching isolated indigenous and Maroon communities.",
-    "disease_prevention_management": "Active surveillance for malaria and gold-mining-related diseases is a high priority. In 2026, the department is also focusing on the high prevalence of HIV and the emerging threat of drug-resistant tuberculosis in border areas with Brazil and Suriname.",
-    "social_factors": "High levels of migration and a young, rapidly growing population create significant demand for reproductive and pediatric services. Cultural and linguistic diversity necessitates a strong focus on intercultural health mediation to improve trust and care adherence.",
-    "environmental_factors": "Mercury contamination of rivers due to illegal gold mining is a persistent health risk, particularly for indigenous communities reliant on fish. In 2026, the government is also monitoring the health impacts of climate change on the rainforest ecosystem and the risk of new zoonotic outbreaks."
-  },
-  "258": {
-    "country_name": "French Polynesia",
-    "population_2025": "310,000",
-    "health_summary": "French Polynesia's health system is centered on the 'Taaone Hospital' in Tahiti, which provides highly specialized care for the archipelago. In 2026, the focus is on the 'Island Health Plan,' which aims to decentralize care and reduce the need for inter-island medical evacuations. The territory is currently managing a double burden of rising lifestyle diseases and the long-term health monitoring of former nuclear test site workers.",
-    "healthcare_access": "Access is provided through a local social security system (CPS). For residents on the 118 islands, health centers and dispensaries are the primary point of contact. In 2026, the 'E-Health Polynesia' initiative is being used to provide remote dermatology and psychiatry consultations to the Tuamotu and Marquesas islands.",
-    "disease_prevention_management": "The 2026 public health agenda is dominated by the 'Eat Local' campaign to combat the high rates of obesity and type 2 diabetes. Active vector control remains essential for preventing outbreaks of Zika and Dengue, which are endemic to the region.",
-    "social_factors": "Strong cultural traditions and communal lifestyles are being integrated into health promotion programs. However, the 2026 health strategy also addresses the mental health challenges of the youth, including high rates of substance use and social isolation in the more remote archipelagos.",
-    "environmental_factors": "Rising sea levels and coastal erosion threaten the health infrastructure on low-lying atolls. In 2026, the territory is also focusing on the protection of coral reefs, which are vital for the local diet and the overall wellbeing of the population."
   },
   "266": {
     "country_name": "Gabon",
@@ -674,15 +593,6 @@
     "social_factors": "High levels of social stability and a strong government commitment to health are positive drivers. However, the 2026 health agenda also addresses the challenges of high fertility rates and the need for better adolescent reproductive health services to empower the large youth population.",
     "environmental_factors": "Urbanization in Accra and Kumasi has led to challenges in waste management and air pollution. In 2026, the government is focusing on the 'Clean Ghana' initiative to improve sanitation and reduce the risk of waterborne diseases, particularly in coastal and low-lying urban areas."
   },
-  "292": {
-    "country_name": "Gibraltar",
-    "population_2025": "40,100",
-    "health_summary": "As of 2026, Gibraltar is refining its healthcare model to adapt to post-Brexit dynamics, focusing on self-sufficiency and high-tech tertiary services. The Gibraltar Health Authority (GHA) has prioritized mental health and cardiology, leveraging its compact size to implement rapid-response digital patient records that are now fully integrated across the territory.",
-    "healthcare_access": "Access to healthcare is universal for residents via the GHA. In 2026, specialized 'Health Hubs' have been established to provide more localized primary care, while reciprocal agreements with the UK and Spain ensure continuity for complex cases requiring off-rock treatment.",
-    "disease_prevention_management": "Preventative screenings for skin cancer and cardiovascular health are a major focus in 2026, targeting the unique risk factors of a Mediterranean lifestyle and high sun exposure. The territory boasts one of the highest childhood vaccination rates in the region.",
-    "social_factors": "The close-knit nature of the community facilitates high health literacy and strong social support. However, the high density of the urban area necessitates constant monitoring of air quality and urban environmental health.",
-    "environmental_factors": "Water security is managed via advanced desalination, which is critical for maintaining hygiene standards. In 2026, Gibraltar is also focusing on 'Green Living' initiatives to encourage physical activity through the revitalized Northern Defences and coastal walkways."
-  },
   "300": {
     "country_name": "Greece",
     "population_2025": "10,300,000",
@@ -691,15 +601,6 @@
     "disease_prevention_management": "National screening programs for breast and cervical cancer are in their peak expansion phase in 2026. The government has also launched a 'Mediterranean Diet Initiative' to combat rising childhood obesity and reduce the burden of Type 2 diabetes.",
     "social_factors": "Strong family-centered care models provide a safety net for the elderly, though an aging demographic is putting increased pressure on formal geriatric services. Tobacco consumption remains high, prompting stricter 2026 enforcement of public smoking bans.",
     "environmental_factors": "Increasing heatwaves and wildfires pose significant seasonal risks to respiratory health and emergency services. In 2026, the 'Climate Resilience Health Plan' is focusing on protecting vulnerable populations during extreme weather events and improving urban cooling in cities like Athens."
-  },
-  "304": {
-    "country_name": "Greenland",
-    "population_2025": "56,600",
-    "health_summary": "Greenland’s health system in 2026 is navigating a period of fiscal tightening while managing the health needs of a widely dispersed population. A new framework agreement with Denmark has stabilized the pipeline for specialized treatments in Copenhagen. The focus is currently on addressing the 'human resources crisis' by training more local Greenlandic-speaking healthcare workers.",
-    "healthcare_access": "Access is provided through the Queen Ingrid’s Hospital in Nuuk and a network of regional clinics. In 2026, 'Fly-in' dental and surgical teams are the primary way to provide care to isolated northern settlements like Qaanaaq.",
-    "disease_prevention_management": "Mental health and suicide prevention remain the highest public health priorities in 2026, with a focus on culturally sensitive community outreach. Efforts to control tuberculosis in remote villages continue to be a significant epidemiological challenge.",
-    "social_factors": "The transition from traditional lifestyles to more sedentary urban living has led to rising rates of lifestyle-related NCDs. Strong community bonds are being leveraged for youth resilience programs and dietary education focusing on local, traditional foods.",
-    "environmental_factors": "The impacts of the climate crisis on traditional hunting and fishing patterns are indirectly affecting nutrition and food security. In 2026, the government is also monitoring the release of pollutants from melting ice, which can impact local water sources."
   },
   "308": {
     "country_name": "Grenada",
@@ -710,24 +611,6 @@
     "social_factors": "A strong culture of 'village care' supports the elderly and those with chronic illnesses. However, the migration of trained nurses to North America and Europe remains a significant challenge for staffing the public health sector in 2026.",
     "environmental_factors": "Coastal erosion and the risk of storm surges necessitate robust emergency planning for coastal medical facilities. The 'Clean Spice Island' initiative is currently focusing on plastic reduction and improved waste management to protect the island's groundwater."
   },
-  "312": {
-    "country_name": "Guadeloupe",
-    "population_2025": "374,000",
-    "health_summary": "As a French overseas department, Guadeloupe benefits from high-quality medical standards but faces the challenges of an aging population, with a median age now over 47. In 2026, the focus is on the management of chronic conditions like sickle cell anemia and the long-term health impacts of the pesticide Chlordecone.",
-    "healthcare_access": "Residents have access to the French social security system, with the University Hospital of Guadeloupe (CHU) serving as a major regional center. However, the 2026 health agenda is focused on reducing the 'care gap' for residents in the smaller islands of Les Saintes and Marie-Galante.",
-    "disease_prevention_management": "Active screening for Chlordecone-related health issues, including prostate cancer, is a unique priority in 2026. The department also maintains rigorous surveillance for tropical viruses like Zika and Dengue through the Institut Pasteur.",
-    "social_factors": "Strong social ties facilitate family-based care for the elderly, but high unemployment among youth impacts mental wellbeing and social cohesion. In 2026, the government is focusing on 'Intercultural Health' to better align French medical protocols with local cultural practices.",
-    "environmental_factors": "The presence of Sargassum seaweed on the coastlines is a significant environmental health concern, as the gas released during its decomposition can cause respiratory and neurological issues for coastal residents."
-  },
-  "316": {
-    "country_name": "Guam",
-    "population_2025": "173,000",
-    "health_summary": "Guam serves as a regional medical hub for Micronesia in 2026, with significant investment in its two main civilian hospitals. The health system is currently focusing on expanding surgical capacity and specialized oncology services to reduce the need for expensive medical evacuations to Hawaii or the Philippines.",
-    "healthcare_access": "Access is divided between public and private sectors, with the Guam Memorial Hospital serving as the safety net provider. In 2026, the territory is working to improve healthcare for COFA (Compact of Free Association) migrants, who often face barriers to consistent primary care.",
-    "disease_prevention_management": "High rates of NCDs, particularly Type 2 diabetes and heart disease, are being addressed through the 2026 'Guam Wellness' campaign. There is also a specific focus on monitoring for Lytico-bodig disease, a unique neurodegenerative condition historically found on the island.",
-    "social_factors": "The indigenous Chamorro culture emphasizes communal support, which is leveraged for health education. However, the heavy presence of U.S. military facilities creates a dual health economy, with some disparities in access between military and local civilian populations.",
-    "environmental_factors": "Guam is highly vulnerable to typhoons, requiring all medical infrastructure to meet stringent wind and flood-resistance standards. In 2026, the island is also focusing on coral reef preservation as a means of protecting local food security and maritime health."
-  },
   "320": {
     "country_name": "Guatemala",
     "population_2025": "18,400,000",
@@ -736,15 +619,6 @@
     "disease_prevention_management": "Control of vector-borne diseases like Chagas and Malaria is a high priority in the lowland regions. In 2026, a new national vaccination program is targeting the increase in measles and polio cases seen in neighboring countries.",
     "social_factors": "Deep-seated inequality and the migration of young people to the north are straining the social fabric and the healthcare workforce. In 2026, community-led health committees are being empowered to manage local health resources and education.",
     "environmental_factors": "Volcanic activity and landslides pose recurring threats to health infrastructure in the central highlands. In 2026, the 'Clean Water for All' initiative is focusing on reducing the incidence of diarrheal diseases, which are a major cause of infant mortality."
-  },
-  "831": {
-    "country_name": "Guernsey",
-    "population_2025": "64,500",
-    "health_summary": "Guernsey’s healthcare system in 2026 is characterized by its independence and high clinical standards, funded through a mix of social insurance and user fees. The system is currently focused on the 'Hospital Modernization' project, which is expanding theater and ward capacity to handle an aging population and more complex surgeries locally.",
-    "healthcare_access": "Primary care is provided by private practices, which can be expensive for low-income residents; in 2026, the States of Guernsey are considering further subsidies to ensure equitable access. Secondary care at the Princess Elizabeth Hospital is virtually universal for residents.",
-    "disease_prevention_management": "Guernsey has a strong focus on preventative cardiology and cancer screening. In 2026, the 'Active Guernsey' strategy aims to use the island's natural environment to increase physical activity across all age groups to combat the rise in lifestyle-related illnesses.",
-    "social_factors": "A high standard of living and strong social cohesion contribute to overall wellbeing, though the 'cost of living' is a significant stressor for some. The close-knit community facilitates effective public health messaging and high compliance with vaccination programs.",
-    "environmental_factors": "The island's maritime climate and high air quality are significant health assets. In 2026, the government is focusing on the 'Sustainable Guernsey' plan, which includes improving cycling infrastructure to reduce car dependence and urban noise."
   },
   "324": {
     "country_name": "Guinea",
@@ -782,15 +656,6 @@
     "social_factors": "Pervasive insecurity and displacement have led to a severe mental health crisis and high rates of sexual and gender-based violence. The migration of the 'medical elite'—doctors and nurses—has left a profound void in the local health workforce in 2026.",
     "environmental_factors": "Frequent hurricanes and flooding exacerbate the spread of disease and destroy temporary shelters. In 2026, the focus is on providing basic solar-powered lighting and water purification kits to displaced person camps to prevent the total collapse of public hygiene."
   },
-  "336": {
-    "country_name": "Holy See (Vatican City)",
-    "population_2025": "800",
-    "health_summary": "Healthcare in the Holy See in 2026 is focused on the wellbeing of its small population of residents and the thousands of employees who commute daily. The Vatican Pharmacy and the Directorate of Health and Hygiene provide high-quality primary care and public health monitoring, with specialized cases being referred to the Bambino Gesù Children's Hospital and the Gemelli Polyclinic in Rome.",
-    "healthcare_access": "Access is universal for residents and provided through the Holy See's own health insurance for employees. In 2026, the focus is on the 'Digital Health Secretariat' to streamline records for the multinational staff and manage the health needs of the aging resident clergy.",
-    "disease_prevention_management": "The 2026 agenda is focused on geriatric care for the resident population and rigorous public health surveillance for the millions of pilgrims who visit annually. The Vatican remains a global advocate for 'Ethical Health Equity,' using its diplomatic voice to promote vaccine access for the world's poorest.",
-    "social_factors": "The unique demographic, largely composed of adult males and the elderly, means that reproductive health and pediatrics are not a primary local focus. However, the spiritual and mental wellbeing of the community is highly prioritized through integrated pastoral and psychological care.",
-    "environmental_factors": "The compact, urban environment of the Vatican is subject to Rome's air quality levels. In 2026, the Holy See is continuing its 'Laudato Si' health initiative, focusing on creating sustainable, climate-controlled environments for its historic sites and residential quarters."
-  },
   "340": {
     "country_name": "Honduras",
     "population_2025": "10,800,000",
@@ -799,15 +664,6 @@
     "disease_prevention_management": "Dengue remains a critical threat; the 2026 'Neighborhoods without Mosquitoes' program uses community surveillance and drone-based mapping to identify breeding sites. Honduras is also scaling up its screening for chronic kidney disease, which has a high prevalence among agricultural workers.",
     "social_factors": "High levels of gang violence and organized crime contribute to a large volume of trauma cases and long-term mental health needs. In 2026, the 'Peace in Health' program is training community health workers in conflict resolution and trauma-informed care.",
     "environmental_factors": "Vulnerability to droughts in the 'Dry Corridor' is a major driver of malnutrition and migration. In 2026, the government is focusing on 'Water Resilience' by building community-managed reservoirs and solar-powered purification systems for rural health centers."
-  },
-  "344": {
-    "country_name": "Hong Kong",
-    "population_2025": "7,500,000",
-    "health_summary": "In 2026, Hong Kong is fully implementing its 'Primary Healthcare Blueprint,' shifting the focus from hospital-based care to community-led prevention. The system is a world leader in longevity but faces the challenge of an extremely rapid aging demographic. The 'Greater Bay Area' health integration project is currently facilitating easier cross-border medical access for residents living in mainland China.",
-    "healthcare_access": "Public healthcare remains highly affordable and universal, but the 2026 'Co-payment Reform' is encouraging the middle class to use the private sector for routine care to reduce public hospital wait times. Telehealth is now fully integrated into the 'eHealth' app, used by over 90% of the population.",
-    "disease_prevention_management": "A national 'Colon Cancer Screening' expansion in 2026 is targeting younger age groups due to rising incidence. The government is also focusing on the 'Mental Health 2026' initiative, addressing the psychological impact of high-density living and work-related stress.",
-    "social_factors": "The 'Silver Hair' economy is driving innovation in health-tech and home-care robotics. However, social isolation among the elderly remains a significant public health focus, with new community 'Buddy Schemes' being launched in 2026.",
-    "environmental_factors": "Air quality is a persistent health concern, with 2026 regulations focusing on zero-emission maritime and road transport. The 'Green Lung' project is expanding urban parks and vertical gardens to improve the 'micro-climate' and respiratory health in dense districts like Sham Shui Po."
   },
   "348": {
     "country_name": "Hungary",
@@ -1178,15 +1034,6 @@
     "social_factors": "An aging population and the 'brain drain' of young medical professionals to Western Europe are straining the system's capacity. In 2026, new incentives are being offered to specialist doctors to work in the northern, less-developed regions of the country.",
     "environmental_factors": "Air pollution in industrial towns like Pljevlja remains a significant concern for respiratory health. In 2026, Montenegro is integrating 'Climate Health' into its national strategy, focusing on the health impacts of heatwaves on its coastal tourism hubs and the elderly population."
   },
-  "500": {
-    "country_name": "Montserrat",
-    "population_2025": "4,400",
-    "health_summary": "As a small British Overseas Territory, Montserrat’s 2026 health strategy is centered on 'Sustainability and Specialized Care.' Following the long-term impact of volcanic activity, the system is focused on building a resilient, modern hospital to replace temporary facilities. The territory maintains some of the highest immunization rates in the Caribbean but faces challenges with an aging demographic.",
-    "healthcare_access": "Primary care is highly accessible via district clinics, but secondary and tertiary care often require medical evacuation to Antigua or the UK. In 2026, the government is expanding 'Tele-health' links with specialized Caribbean centers to provide more on-island diagnostic services and reduce the cost of patient transfers.",
-    "disease_prevention_management": "Management of chronic conditions like diabetes and hypertension is the primary 2026 focus. With nearly 20% of the population over 65, the 'Healthy Aging' initiative is promoting active lifestyles and nutrition programs tailored to the elderly, while maintaining 100% coverage for essential childhood vaccinations.",
-    "social_factors": "The small, close-knit population facilitates effective community health monitoring, but the limited workforce makes the system vulnerable to staff shortages. In 2026, the focus is on 'Community-Based Care' where social and health services are integrated to support independent living for the aged.",
-    "environmental_factors": "The ongoing monitoring of volcanic ash and its impact on respiratory health remains a unique priority. In 2026, Montserrat is also investing in 'Climate-Resilient Infrastructure' to ensure that its health facilities can withstand the increasing intensity of Atlantic hurricanes."
-  },
   "504": {
     "country_name": "Morocco",
     "population_2025": "38,200,000",
@@ -1250,16 +1097,6 @@
     "social_factors": "The 'Loneliness' agenda is a major social-health priority in 2026, with the government funding 'Social Prescribing' where GPs can prescribe community activities and social support instead of just medical treatment for the elderly.",
     "environmental_factors": "The Netherlands is a leader in 'Green Healthcare,' aiming to reduce the sector's CO2 emissions by 55% by 2030. In 2026, the 'Sustainable Pharmacy' initiative is focusing on reducing the impact of pharmaceutical residues in the country’s highly managed water systems."
   },
-  "540": {
-    "country_name": "New Caledonia",
-    "population_2025": "295,333",
-    "health_summary": "In May 2026, New Caledonia—a French overseas territory—is focused on the 'Do Kamo' health reform, aiming to shift the system from curative to preventive care. The territory is navigating a post-conflict health recovery phase, prioritizing the stabilization of medical supply chains and the retention of specialized healthcare professionals.",
-    "healthcare_access": "Access is dual-tiered, with a robust public system (CHT Gaston-Bourret) and private clinics. In 2026, telemedicine is being expanded to reach the 'Brousse' (rural areas) and the Loyalty Islands, reducing the reliance on costly medical evacuations to Nouméa or Australia for basic specialist consultations.",
-    "disease_prevention_management": "A major 2026 focus is on 'Lifestyle Diseases' (NCDs), particularly diabetes and obesity, which have high prevalence among the Kanak and Polynesian populations. Public health campaigns are also targeting Dengue fever, utilizing 'Wolbachia' mosquito releases to reduce transmission rates in urban areas.",
-    "social_factors": "Social determinants are closely linked to the territory's political and social transition. In 2026, health initiatives are increasingly 'culturally adapted,' integrating traditional Kanak medicine practices into the formal public health framework to improve patient trust and adherence.",
-    "environmental_factors": "Environmental health in 2026 is centered on the impact of the nickel mining industry. Long-term studies are being conducted on respiratory issues linked to dust exposure in mining towns, alongside monitoring the health of coral reef ecosystems which provide essential nutrition to coastal communities.",
-    "diagram": ""
-  },
   "554": {
     "country_name": "New Zealand",
     "population_2025": "5,340,000",
@@ -1296,14 +1133,14 @@
     "social_factors": "Social determinants in 2026 are addressed through the 'Basic Health Care Provision Fund' (BHCPF), which targets the poorest citizens. Public health campaigns are also focusing on mental health awareness to reduce the stigma associated with seeking care in both urban and rural settings.",
     "environmental_factors": "In 2026, Nigeria is tackling 'Environmental Lead Poisoning' in mining regions and the health impacts of urban air pollution. The government is also preparing for seasonal flooding in the Niger Delta, which regularly triggers outbreaks of waterborne diseases."
   },
-  "570": {
-    "country_name": "Niue",
-    "population_2025": "1,935",
-    "health_summary": "In 2026, Niue’s health system—centered on the Niue Foou Hospital—is focused on 'Total Island Wellness.' As one of the world's smallest nations, Niue prioritizes a high-touch, community-based care model with a strong emphasis on NCD prevention and geriatric care.",
-    "healthcare_access": "Healthcare is free and accessible to all residents. In 2026, the 'Health Bridge' program with New Zealand is a vital component, providing seamless transfer for complex cases and regular visits from New Zealand-based specialists for cardiology and oncology clinics.",
-    "disease_prevention_management": "Niue is targeting 'Zero New NCD Cases' by 2026 through the 'Village Wellness' program. This includes mandatory physical activity sessions in workplaces and schools and the promotion of 'Island Food' over imported processed goods to combat obesity.",
-    "social_factors": "Social determinants are managed through close-knit community structures. In 2026, the focus is on supporting the 'Returning Diaspora'—older Niueans returning from New Zealand—by ensuring the health system is equipped to manage chronic age-related conditions.",
-    "environmental_factors": "In 2026, Niue is a world leader in 'Sustainable Water Management,' with 100% of the population using UV-filtered rainwater. Environmental health teams are also focused on coastal protection to prevent the loss of medical infrastructure to rising sea levels."
+  "408": {
+    "country_name": "North Korea",
+    "population_2025": "26,200,000",
+    "health_summary": "North Korea's health system officially promises universal, free medical care, but in reality, it is deeply crippled by decades of chronic underfunding and international isolation. Hospitals suffer from severe shortages of basic medicines, modern diagnostic equipment, and reliable electricity. Chronic malnutrition, particularly among children and pregnant women outside the elite capital, remains a profound public health crisis that causes widespread physical stunting.",
+    "healthcare_access": "While the state claims healthcare is entirely free, patients are routinely forced to purchase their own medicine on the black market and pay informal bribes to doctors for basic treatment. Rural clinics are exceptionally dilapidated, frequently lacking basic sanitation, running water, and essential sterilization equipment.",
+    "disease_prevention_and_management": "The state heavily relies on mandatory mass vaccination campaigns, though international monitors frequently cite concerns over cold-chain logistics and overall vaccine efficacy. Preventable, highly contagious diseases like tuberculosis and waterborne illnesses remain massive, poorly managed public health threats that continuously ravage the population.",
+    "social_factors": "Severe, deeply entrenched food insecurity and a lack of diverse diets heavily weaken the immune systems of the general population. Strict authoritarian control completely blocks access to independent health information and highly restricts international humanitarian medical aid from reaching vulnerable citizens.",
+    "environmental_factors": "The widespread lack of clean, modern water treatment and sanitation infrastructure frequently triggers deadly outbreaks of preventable gastrointestinal diseases. Brutally cold winters, combined with severe national shortages of heating fuel, cause massive spikes in acute respiratory infections among vulnerable demographics."
   },
   "807": {
     "country_name": "North Macedonia",
@@ -1313,15 +1150,6 @@
     "disease_prevention_management": "A 2026 priority is the 'National Cancer Control Plan,' with new investments in radiotherapy and early screening for lung and breast cancer. The country is also focused on improving vaccination rates for MMR, which have seen a decline due to vaccine hesitancy.",
     "social_factors": "Social determinants in 2026 are addressed through 'Inter-Sectoral Health Committees' that focus on the health of the Roma minority and the elderly living in isolated mountainous villages. Youth mental health is also a rising priority following the digital transition.",
     "environmental_factors": "Air quality is the primary environmental health concern in 2026, particularly in Skopje and Tetovo. The 'Clean Air for Health' initiative is monitoring the respiratory impact of wood-burning heating and industrial emissions, promoting a transition to greener energy sources."
-  },
-  "580": {
-    "country_name": "Northern Mariana Islands",
-    "population_2025": "49,000",
-    "health_summary": "In 2026, the Commonwealth of the Northern Mariana Islands (CNMI) is focused on 'Resilient Health Systems' through the Commonwealth Healthcare Corporation (CHCC). The territory is integrating U.S. federal health standards with local cultural needs to manage high rates of chronic diseases.",
-    "healthcare_access": "Access is centered on the Saipan hospital, with 2026 seeing the expansion of 'Tele-Health Hubs' on Tinian and Rota. These hubs allow residents of the smaller islands to consult with specialists in Hawaii or the U.S. mainland without the need for expensive air travel.",
-    "disease_prevention_management": "The 2026 focus is on the 'Non-Communicable Disease (NCD) Bureau,' which is implementing a territory-wide diabetes registry. Efforts are also focused on 'Tuberculosis Elimination' among the migrant worker population and promoting HPV vaccination.",
-    "social_factors": "Social determinants are addressed through 'Community Health Centers' that provide sliding-fee services. In 2026, there is a strong focus on 'Generational Health,' educating families on the importance of traditional diets (fish and local produce) over high-sugar imported foods.",
-    "environmental_factors": "In 2026, the CNMI is preparing for 'Climate-Induced Health Risks,' including the spread of vector-borne diseases and the impact of typhoons on water safety. The CHCC is investing in solar-powered backup systems for all clinical facilities to ensure operational continuity."
   },
   "578": {
     "country_name": "Norway",
@@ -1358,15 +1186,6 @@
     "disease_prevention_management": "Lifestyle-related NCDs remain the primary health threat. In 2026, the 'Tobacco-Free Palau 2030' initiative has reached a milestone with the implementation of the highest tobacco taxes in the Pacific, alongside mandatory nutrition labeling on all imported processed foods.",
     "social_factors": "Close-knit community structures facilitate high vaccination rates and effective public health messaging. However, 2026 social policy is increasingly addressing the mental health impact of 'Environmental Anxiety' among youth concerned about the island's long-term habitability.",
     "environmental_factors": "Saltwater intrusion into the fresh water lens and rising sea levels are critical 2026 health drivers. The government is currently implementing solar-powered desalination in the outer islands to ensure a safe, disease-free water supply as a primary preventative health measure."
-  },
-  "275": {
-    "country_name": "Palestine",
-    "population_2025": "5,600,000",
-    "health_summary": "In 2026, the Palestinian health system is in a period of critical reconstruction. Efforts are centered on the 'Health Rehabilitation Master Plan,' aiming to restore the primary care network and hospital capacity. International health clusters are working with local authorities to transition from emergency humanitarian aid to a sustainable, long-term health governance model.",
-    "healthcare_access": "Access is highly fragmented; in 2026, the focus is on rebuilding the central medical stores and ensuring a steady supply of essential medicines. Mobile surgical units remain vital in areas where permanent infrastructure is still being repaired, while tele-health links are being utilized to connect local doctors with international specialists.",
-    "disease_prevention_management": "Psychosocial health and trauma-informed care are the top priorities in 2026, with widespread mental health support programs integrated into all schools and clinics. Vaccination coverage remains a priority to prevent outbreaks of polio and measles in densely populated temporary shelters.",
-    "social_factors": "Extreme levels of displacement and the loss of traditional community infrastructure have made social protection the primary driver of health outcomes. In 2026, community-led 'Health Committees' are being revitalized to manage local sanitation and nutritional monitoring.",
-    "environmental_factors": "Severe damage to water and sewage networks continues to pose a cholera and typhoid risk in 2026. Reconstruction efforts are prioritizing 'Green Reconstruction,' utilizing decentralized solar power for hospitals to ensure energy independence and continuous operation."
   },
   "591": {
     "country_name": "Panama",
@@ -1575,15 +1394,6 @@
     "social_factors": "Social determinants are addressed through 'Active Aging Hubs' co-located with residential blocks to combat social isolation. In 2026, the government is also tackling the mental health of the 'sandwich generation'—caregivers looking after both children and elderly parents—through increased respite care grants.",
     "environmental_factors": "In 2026, the 'Singapore Green Plan 2030' influences health via the 'Cooling Singapore' strategy, which uses urban design to mitigate the urban heat island effect. Surveillance for Dengue has evolved to include AI-driven predictive modeling that anticipates outbreaks based on real-time micro-climate data and mosquito population trends."
   },
-  "534": {
-    "country_name": "Sint Maarten",
-    "population_2025": "44,000",
-    "health_summary": "Sint Maarten's 2026 health strategy is centered on 'Reconstruction and Resilience.' The focus is on completing the new General Hospital to eliminate the need for off-island medical evacuations and building a system capable of weathering Category 5 hurricanes.",
-    "healthcare_access": "Universal Health Insurance reform in 2026 is streamlining access for the island's diverse population. The 'Social and Health Insurances' (SZV) platform now includes digital portals for easier management of chronic care referrals.",
-    "disease_prevention_management": "Lifestyle-related diseases, such as diabetes and hypertension, are the 2026 focal points. The 'Healthy Island' campaign promotes local food security and physical activity to reduce the high prevalence of obesity.",
-    "social_factors": "As a tourism-dependent economy, 2026 social factors involve managing the health needs of a large transient population. Health policy is increasingly focused on migrant health and ensuring that language barriers do not impede care.",
-    "environmental_factors": "Climate resilience is the defining 2026 health driver. The National Adaptation Plan includes 'Hurricane-Hardening' of medical supplies and decentralized water purification systems for emergency use."
-  },
   "703": {
     "country_name": "Slovakia",
     "population_2025": "5,500,000",
@@ -1629,6 +1439,15 @@
     "social_factors": "High levels of youth unemployment and gender-based violence are identified in 2026 as critical social determinants. Mental health services are being expanded within primary care to address the psychological impacts of these systemic social issues.",
     "environmental_factors": "In 2026, the 'National Heat-Health Action Plan' is being tested as the country faces more frequent heatwaves. Health authorities are also monitoring water quality in urban hubs like Gauteng to prevent outbreaks of waterborne diseases linked to aging infrastructure."
   },
+  "410": {
+    "country_name": "South Korea",
+    "population_2025": "51,700,000",
+    "health_summary": "South Korea boasts a hyper-modern, highly efficient universal healthcare system that has successfully achieved one of the highest life expectancies in the world. However, this clinical success masks a profound mental health crisis, driven by a hyper-competitive society that results in the highest suicide rate in the developed world. Furthermore, a catastrophic demographic collapse and an incredibly rapidly aging population currently place an unprecedented, massive financial strain on the national health infrastructure.",
+    "healthcare_access": "The National Health Insurance Service provides citizens with highly affordable, rapid, and technologically advanced medical care across a vast network of world-class hospitals. However, severe recent strikes by medical professionals protesting government quota policies have deeply strained emergency rooms and heavily delayed critical specialized surgeries.",
+    "disease_prevention_and_management": "The state actively enforces preventative care by providing regular, highly comprehensive, and heavily subsidized national health screenings to detect cancers and chronic conditions early. The country also utilizes world-class digital infrastructure and advanced contact tracing to aggressively manage and rapidly contain infectious disease outbreaks.",
+    "social_factors": "An incredibly intense, high-pressure work and education culture causes severe chronic stress, deeply exacerbating the national mental health crisis. The astronomical financial burden of raising children in this hyper-competitive environment has heavily contributed to the nation suffering the lowest birth rate globally.",
+    "environmental_factors": "The population frequently suffers from severe air quality issues, specifically high levels of fine particulate matter (yellow dust) that blow in from regional industrial zones, causing chronic respiratory problems. Additionally, increasingly severe, climate-induced summer heatwaves pose a massive, direct mortality threat to the rapidly expanding elderly population."
+  },
   "728": {
     "country_name": "South Sudan",
     "population_2025": "12,200,000",
@@ -1655,6 +1474,15 @@
     "disease_prevention_management": "Sri Lanka is maintaining its status as a malaria-free nation in 2026 through vigilant surveillance. A major public health focus has shifted to the 'NCD Crisis,' with programs targeting high salt and sugar consumption to combat rising rates of heart disease.",
     "social_factors": "The 2026 social environment is marked by an aging demographic, leading to the creation of 'Elder Care Communities.' Economic resilience remains a factor, with health programs increasingly tied to social safety nets.",
     "environmental_factors": "Environmental health in 2026 is centered on managing the impact of extreme weather on vector-borne diseases like Dengue. The government is investing in 'Bio-Surveillance' to monitor mosquito breeding sites in real-time using satellite data."
+  },
+  "275": {
+    "country_name": "State of Palestine",
+    "population_2025": "5,600,000",
+    "health_summary": "In 2026, the Palestinian health system is in a period of critical reconstruction. Efforts are centered on the 'Health Rehabilitation Master Plan,' aiming to restore the primary care network and hospital capacity. International health clusters are working with local authorities to transition from emergency humanitarian aid to a sustainable, long-term health governance model.",
+    "healthcare_access": "Access is highly fragmented; in 2026, the focus is on rebuilding the central medical stores and ensuring a steady supply of essential medicines. Mobile surgical units remain vital in areas where permanent infrastructure is still being repaired, while tele-health links are being utilized to connect local doctors with international specialists.",
+    "disease_prevention_management": "Psychosocial health and trauma-informed care are the top priorities in 2026, with widespread mental health support programs integrated into all schools and clinics. Vaccination coverage remains a priority to prevent outbreaks of polio and measles in densely populated temporary shelters.",
+    "social_factors": "Extreme levels of displacement and the loss of traditional community infrastructure have made social protection the primary driver of health outcomes. In 2026, community-led 'Health Committees' are being revitalized to manage local sanitation and nutritional monitoring.",
+    "environmental_factors": "Severe damage to water and sewage networks continues to pose a cholera and typhoid risk in 2026. Reconstruction efforts are prioritizing 'Green Reconstruction,' utilizing decentralized solar power for hospitals to ensure energy independence and continuous operation."
   },
   "729": {
     "country_name": "Sudan",
@@ -1700,15 +1528,6 @@
     "disease_prevention_management": "A 2026 national priority is the restoration of the 'Expanded Programme on Immunization' (EPI) to prevent the resurgence of childhood diseases. Additionally, there is a major push to manage the 'Leishmaniasis' epidemic, which has become endemic in several provinces.",
     "social_factors": "Social determinants are dominated by poverty and displacement. In 2026, 'Psychosocial Support' (PSS) is being integrated into all levels of care to address the generational trauma caused by the conflict, with a special focus on the youth.",
     "environmental_factors": "Environmental health is a critical concern in 2026 due to the destruction of water and sanitation infrastructure. The 'Safe Water' project is a top priority to prevent the spread of waterborne diseases in the heavily damaged urban centers of Aleppo and Homs."
-  },
-  "158": {
-    "country_name": "Taiwan",
-    "population_2025": "23,011,292",
-    "health_summary": "In 2026, Taiwan’s National Health Insurance (NHI) system is focused on 'Precision Health' and the digital transformation of long-term care. As one of the world's fastest-aging societies, the government is prioritizing the integration of AI in diagnostic processes to maintain system efficiency.",
-    "healthcare_access": "Access is comprehensive and highly digitalized. By 2026, the 'Virtual NHI Card' on smartphones is used by the majority of the population for hospital check-ins and accessing personal health records, while 'Smart Clinics' in rural areas provide real-time specialist consultations.",
-    "disease_prevention_management": "Taiwan is leveraging its tech industry in 2026 to lead in early cancer detection through liquid biopsy and AI-assisted imaging. Public health efforts are also tackling the rising incidence of chronic kidney disease and high myopia in children through school-based interventions.",
-    "social_factors": "A major 2026 social factor is the 'Super-Aged Society' transition. Policy focus is on 'Aging in Place,' with significant investments in community care stations (C-level stations) that combine medical check-ups with social activities for seniors.",
-    "environmental_factors": "Environmental health in 2026 focuses on air quality and extreme heat. The 'Net-Zero 2050' health roadmap includes monitoring the correlation between PM2.5 levels and respiratory admissions in major hubs like Kaohsiung and Taipei."
   },
   "762": {
     "country_name": "Tajikistan",
@@ -1880,6 +1699,15 @@
     "disease_prevention_management": "The 2026 focus is on 'Climate-Sensitive Diseases' like Malaria and Dengue. Community-led surveillance and the rollout of the malaria vaccine in high-risk provinces are primary goals, alongside efforts to improve clean water access to prevent waterborne illness.",
     "social_factors": "Social determinants are managed through the 'Healthy Islands' framework, emphasizing community ownership of health. In 2026, there is a strong focus on maternal and child health, with new training programs for traditional birth attendants to work alongside formal medical staff.",
     "environmental_factors": "Climate change is an existential health threat in 2026. Rising sea levels and increased salinity in freshwater wells are primary concerns. The Ministry of Health is relocating vulnerable clinics to higher ground and promoting 'Climate-Smart' gardening to ensure local food security."
+  },
+  "336": {
+    "country_name": "Vatican City",
+    "population_2025": "800",
+    "health_summary": "Healthcare in the Holy See in 2026 is focused on the wellbeing of its small population of residents and the thousands of employees who commute daily. The Vatican Pharmacy and the Directorate of Health and Hygiene provide high-quality primary care and public health monitoring, with specialized cases being referred to the Bambino Gesù Children's Hospital and the Gemelli Polyclinic in Rome.",
+    "healthcare_access": "Access is universal for residents and provided through the Holy See's own health insurance for employees. In 2026, the focus is on the 'Digital Health Secretariat' to streamline records for the multinational staff and manage the health needs of the aging resident clergy.",
+    "disease_prevention_management": "The 2026 agenda is focused on geriatric care for the resident population and rigorous public health surveillance for the millions of pilgrims who visit annually. The Vatican remains a global advocate for 'Ethical Health Equity,' using its diplomatic voice to promote vaccine access for the world's poorest.",
+    "social_factors": "The unique demographic, largely composed of adult males and the elderly, means that reproductive health and pediatrics are not a primary local focus. However, the spiritual and mental wellbeing of the community is highly prioritized through integrated pastoral and psychological care.",
+    "environmental_factors": "The compact, urban environment of the Vatican is subject to Rome's air quality levels. In 2026, the Holy See is continuing its 'Laudato Si' health initiative, focusing on creating sustainable, climate-controlled environments for its historic sites and residential quarters."
   },
   "862": {
     "country_name": "Venezuela",
