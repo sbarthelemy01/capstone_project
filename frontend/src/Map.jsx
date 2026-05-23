@@ -42,8 +42,8 @@ export default function Map({ activeIssue }) {
     const countryName = geo.properties.name; // e.g., "United States"
 
     //console.log("Object selected:", geo);
-    console.log("The country code selected is: ", countryCode);
-    console.log(countryName);
+    //console.log("The country code selected is: ", countryCode);
+    //console.log(countryName);
     
 
     setSelectedCountry(geo.rsmKey);
@@ -63,7 +63,7 @@ export default function Map({ activeIssue }) {
     try {
       // Fetch data from the backend API for selected country and issue
       const response = await fetch(`http://localhost:3000/api/issues/${formattedIssue}/countries/${countryCode}`);
-      console.log("Response: ", response);
+      //console.log("Response: ", response);
 
       if (!response.ok) {
         throw new Error("Data not found");

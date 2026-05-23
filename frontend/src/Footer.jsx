@@ -1,7 +1,7 @@
 import React from 'react';
 import { Tooltip } from 'react-tooltip';
 import github from "./images/github.svg";
-import gmail from "./images/gmail.svg";
+import mail from "./images/mail.svg";
 
 import './Footer.css';
 
@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="footer-icons">
             <a href="mailto:samanthabarthelemy12@gmail.com" target="_blank" rel="noreferrer">
                 <img
-                    src={gmail}
+                    src={mail}
                     data-tooltip-id="info-tooltip"
                     data-tooltip-content="Contact"
                     data-tooltip-place="bottom"

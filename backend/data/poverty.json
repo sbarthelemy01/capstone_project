@@ -327,6 +327,14 @@
     "effects": "The lack of quality employment for low-skilled workers drives up the size of the informal economy, where workers lack social security protections. Rising living costs disproportionately affect marginalized groups, including indigenous populations and recent migrants from Nicaragua.",
     "government_solutions_and_policies": "The government recently implemented a comprehensive fiscal reform package aimed at curbing public debt and introducing more progressive taxation. Authorities are also heavily investing in bilingual education and STEM training to integrate more citizens into the high-paying technology and ecotourism sectors."
   },
+  "384": {
+    "country_name": "Côte d'Ivoire",
+    "population_2025": "33,180,000",
+    "poverty_summary": "Côte d'Ivoire has achieved robust macroeconomic growth over the past decade, yet poverty reduction remains highly uneven across its population. While urban centers like Abidjan have experienced significant infrastructural development, rural regions continue to face high poverty rates. Many households remain deeply vulnerable to sudden economic shocks due to their heavy reliance on informal labor and subsistence agriculture. Consequently, translating national wealth into widespread poverty alleviation remains a major developmental hurdle.",
+    "root_causes": "The primary root causes of poverty stem from an overwhelming economic dependence on volatile global cocoa prices and a lack of industrial diversification. Additionally, historical regional imbalances and limited infrastructure in remote areas hinder rural populations from accessing lucrative markets and steady employment.",
+    "effects": "This persistent poverty leads to high rates of childhood stunting and limited access to clean water or formal healthcare in impoverished communities. It also forces many families to pull children out of school early to engage in agricultural labor, perpetuating a generational cycle of low educational attainment.",
+    "government_solutions_and_policies": "To combat these challenges, the government has implemented the National Development Plan, which prioritizes structural economic transformation and rural infrastructure development. Furthermore, targeted social safety net programs, such as cash transfer initiatives, have been expanded to directly support the country's most vulnerable households."
+  },
   "191": {
     "country_name": "Croatia",
     "population_2025": "3,800,000",
@@ -1303,6 +1311,14 @@
     "effects": "The massive collapse of the national currency permanently destroyed the life savings and purchasing power of the middle class, frequently pushing desperate citizens to limit their food intake to a single meal a day. The extreme lack of domestic opportunity has triggered an unprecedented, massive exodus of highly skilled professionals, severely crippling the healthcare and IT sectors.",
     "government_solutions_and_policies": "The state is completely chained to a brutal IMF structural adjustment program, forcing the government to severely hike massive consumer taxes, aggressively slash fuel and electricity subsidies, and attempt the painful privatization of bloated state-owned enterprises. To prevent total societal collapse, authorities desperately implement the 'Aswesuma' social welfare program to funnel emergency cash to the absolute poorest demographics."
   },
+  "275": {
+    "country_name": "State of Palestine",
+    "population_2025": "5,600,000",
+    "poverty_summary": "The State of Palestine faces a severe and catastrophic poverty crisis that has been heavily exacerbated by prolonged conflict, territorial fragmentation, and economic blockades. In the Gaza Strip, the destruction of infrastructure and economic collapse have pushed the vast majority of the population well below the poverty line. The West Bank also experiences high poverty rates due to trade restrictions, frequent movement blockades, and a sharp decline in employment opportunities. Consequently, a massive segment of the Palestinian population is entirely dependent on international humanitarian assistance for survival.",
+    "root_causes": "The primary root causes of poverty are deep-seated political instability, prolonged military conflict, and severe restrictions on the movement of goods and labor. Additionally, the lack of sovereign control over borders and natural resources severely cripples independent economic development and domestic market growth.",
+    "effects": "This widespread poverty has resulted in acute food insecurity, severe water scarcity, and a near-total collapse of standard healthcare services across many communities. It has also led to astronomical unemployment rates and psychological trauma, particularly among youth who face highly restricted futures.",
+    "government_solutions_and_policies": "Given the severe political and fiscal constraints, the government relies heavily on coordinating with international agencies to distribute emergency cash transfers and basic food aid. Long-term strategic policies focus on promoting fiscal resilience, rebuilding damaged infrastructure, and lobbying for the removal of economic blockades to stimulate trade."
+  },
   "729": {
     "country_name": "Sudan",
     "population_2025": "50,000,000",
@@ -1343,14 +1359,6 @@
     "effects": "The absolute destruction of the Syrian Pound has completely wiped out the purchasing power of the population, triggering massive, catastrophic food insecurity and forcing millions to rely entirely on heavily restricted UN food rations. The complete collapse of the healthcare and education systems ensures deep, multi-generational poverty and immense physical suffering.",
     "government_solutions_and_policies": "The internationally isolated regime is entirely bankrupt and structurally incapable of massive national reconstruction, heavily relying on vital military and economic lifelines from Russia and Iran simply to survive. The fragmented nation essentially operates a desperate war economy, heavily dominated by state corruption, rampant smuggling, and the highly lucrative, illicit production of the amphetamine Captagon."
   },
-  "158": {
-    "country_name": "Taiwan",
-    "population_2025": "23,900,000",
-    "poverty_summary": "Taiwan is a hyper-modern, high-income democratic powerhouse dominating the global semiconductor industry. The nation boasts exceptionally high living standards and a comprehensive, world-class universal healthcare system that successfully eradicates absolute poverty. However, Taiwan grapples with an intense, heavily publicized generational wealth divide and severe relative poverty among its youth. The massive, deeply entrenched disconnect between stagnant starting wages and an astronomically expensive housing market creates profound social frustration.",
-    "root_causes": "An massive economic over-concentration on the high-tech export sector severely limits wage growth in the broader domestic service and retail industries. Decades of heavy real estate speculation completely detached housing prices in massive urban centers like Taipei from the reality of median domestic incomes.",
-    "effects": "The terrifying financial impossibility of homeownership and the massive cost of living completely discourage family formation, triggering a catastrophic demographic collapse resulting in one of the absolute lowest birth rates in human history. Young professionals frequently endure grueling hours in a hyper-competitive work culture only to remain deeply financially insecure.",
-    "government_solutions_and_policies": "The government frantically attempts to heavily subsidize social housing construction and heavily expand childcare allowances to avert the terrifying demographic cliff. Economic policy aggressively focuses on attempting to elevate domestic wages by heavily incentivizing massive foreign tech giants to physically base their cutting-edge R&D centers on the island."
-  },
   "762": {
     "country_name": "Tajikistan",
     "population_2025": "10,500,000",
@@ -1374,6 +1382,14 @@
     "root_causes": "Decades of heavily centralized economic planning completely funneled almost all foreign direct investment and massive infrastructure development strictly into Bangkok and the Eastern Seaboard, utterly starving the massive rural interior. Endemic political instability and frequent military coups frequently paralyze vital long-term national development strategies.",
     "effects": "The utter lack of opportunity in the rural provinces drives a continuous, massive internal migration of cheap labor to Bangkok, heavily suppressing national wage growth and trapping millions in heavily precarious, informal service jobs. The massive reliance on mass tourism makes the entire national economy terrifyingly vulnerable to severe global travel disruptions.",
     "government_solutions_and_policies": "The state heavily relies on a massive, complex system of targeted state subsidies and highly vital universal healthcare to heavily mitigate absolute rural poverty and prevent mass political unrest. The government is desperately attempting to upgrade its economic model through the 'Thailand 4.0' initiative, aggressively trying to attract massive high-tech industries to escape the dreaded middle-income trap."
+  },
+  "626": {
+    "country_name": "Timor-Leste",
+    "population_2025": "1,400,000",
+    "poverty_summary": "Timor-Leste has made steady progress since gaining independence, but poverty remains a widespread and persistent challenge, particularly in its rural municipalities. A large portion of the population subsists on low-income, low-yield agriculture that leaves them vulnerable to seasonal hunger. Urban areas also face growing pressure as young citizens migrate from rural areas in search of scarce formal employment. As a result, multidimensional poverty continues to impact a substantial segment of the nation, hindering overall social development.",
+    "root_causes": "The root causes of poverty include a heavy national economic over-reliance on dwindling oil revenues and a lack of economic diversification into other sectors. Additionally, poor rural infrastructure and limited access to modern agricultural technologies prevent smallholder farmers from increasing their yields and incomes.",
+    "effects": "This poverty directly manifests in high rates of chronic childhood stunting and widespread nutritional deficiencies across rural households. It also restricts access to high-quality education and professional training, which limits the economic mobility of the younger generation.",
+    "government_solutions_and_policies": "The government has implemented the Strategic Development Plan to modernize the agricultural sector and invest heavily in basic rural infrastructure. Furthermore, policies are being directed toward expanding social protection programs, such as maternal health grants and school feeding initiatives, to alleviate immediate financial distress."
   },
   "768": {
     "country_name": "Togo",
@@ -1408,7 +1424,7 @@
     "government_solutions_and_policies": "The state is terrifyingly close to a massive sovereign default, frantically locked in deeply bitter, massively stalled negotiations for a heavily vital IMF bailout, which demands the brutally painful, wildly unpopular removal of massive state food and energy subsidies. To violently maintain control, the government heavily subsidizes basic staples while increasingly relying on massive domestic borrowing, severely crowding out the private sector."
   },
   "792": {
-    "country_name": "Turkey",
+    "country_name": "Türkiye",
     "population_2025": "86,000,000",
     "poverty_summary": "Turkey is a massive, highly industrialized G20 economy that has recently endured a catastrophic, deeply devastating cost-of-living crisis driven by terrifying, historically unprecedented hyperinflation. The massive collapse of the Lira utterly decimated the savings and heavily crushed the purchasing power of the massive middle class, pushing millions into severe relative poverty. Furthermore, the nation is struggling with the massive, multi-billion-dollar reconstruction of completely obliterated southern provinces following the deeply catastrophic 2023 earthquakes.",
     "root_causes": "Years of heavily unorthodox, deeply criticized monetary policy—specifically deliberately slashing massive interest rates during high inflation—completely obliterated international market confidence and heavily crashed the national currency. The deeply structural burden of hosting millions of desperate Syrian refugees heavily strains local municipal infrastructure and vastly depresses wages in the massive informal economy.",
