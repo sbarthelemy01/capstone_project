@@ -2,6 +2,11 @@ import React, { useState, useEffect } from "react";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { Tooltip } from "react-tooltip"; 
 
+import IconButton from '@mui/material/IconButton';
+import CloseOutlinedIcon from '@mui/icons-material/CloseOutlined';
+import FavoriteBorderRoundedIcon from '@mui/icons-material/FavoriteBorderRounded';
+import FavoriteRoundedIcon from '@mui/icons-material/FavoriteRounded';
+
 import "react-tooltip/dist/react-tooltip.css"; // Importing CSS for the tooltip
 import './Map.css';
  
@@ -18,6 +23,7 @@ const formatHeader = (key) => {
 export default function Map({ activeIssue }) {
   const [tooltipData, setTooltipData] = useState(null);
   const [selectedCountry, setSelectedCountry] = useState(null);
+  const [isFavorite, setIsFavorite] = useState(false); //tracks whether the currently selected country is in the user's favorites list
   
   useEffect(() => { //useEffect is listening to activeIssue, runs every time activeIssue changes
     setSelectedCountry(null); // removes previously selected country (highlight is cleared)
@@ -47,6 +53,7 @@ export default function Map({ activeIssue }) {
     
 
     setSelectedCountry(geo.rsmKey);
+    setIsFavorite(false);
 
     // If no issue is selected from the NavBar, prompt the user
     if (!activeIssue) {
@@ -80,6 +87,41 @@ export default function Map({ activeIssue }) {
     } catch(err) { //if no data for that country, show "No data available" in tooltip summary
       console.error(err);
       setTooltipData({ name: countryName, summary: "No data available for this country."}); 
+    }
+  };
+
+  const handleCloseTooltip = () => {
+    setTooltipData(null);
+    setSelectedCountry(null);
+  };
+
+  const handleFavoriteToggle = async () => {
+    // Check if user is authenticated before allowing them to favorite a country
+    const token = localStorage.getItem('token');
+    if (!token) {
+      alert("Please sign in to save this to your favorites!");
+      return;
+    }
+
+    setIsFavorite(!isFavorite);
+
+    //send data to backend to save selected country to user's favorites list in database.
+    try {
+      await fetch('http://localhost:3000/api/favorites', {
+        method: 'POST',
+        headers: { 
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}` //sends the user's ID securely
+        },
+        body: JSON.stringify({
+          issue: activeIssue,
+          countryName: tooltipData.name,
+          data: tooltipData
+        })
+      });
+
+    } catch (error) {
+      console.error("Failed to save to favorites:", error);
     }
   };
 
@@ -142,11 +184,35 @@ export default function Map({ activeIssue }) {
         {tooltipData && (
           <div style={{ textAlign: "left", display: "flex", flexDirection: "column", gap: "12px" }}>
             
-            {/* Title (country name) -> centered and underlined */}
-            <strong style={{ display: "block", fontSize: "20px", textAlign: "center", borderBottom: "1px solid #7f8c8d", paddingBottom: "8px" }}>
-              {tooltipData.name}
-            </strong>
-            
+          {/* using flexbox to align items; putting country name to the left and the icon group to the right */}
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", borderBottom: "1px solid #7f8c8d", paddingBottom: "8px" }}>
+              <strong style={{ fontSize: "20px" }}>
+                {tooltipData.name}
+              </strong>
+              
+              {/* icon group in tooltip */}
+              <div style={{ display: "flex", gap: "4px" }}>
+                <Tooltip id="fav-tooltip" place="top" content="Save to Favorites" />
+                <IconButton 
+                  size="small" 
+                  data-tooltip-id="fav-tooltip"
+                  onClick={handleFavoriteToggle}
+                  sx={{ color: '#ff160c' }} // red for the heart
+                >
+                  {isFavorite ? <FavoriteRoundedIcon /> : <FavoriteBorderRoundedIcon />}
+                </IconButton>
+
+                <IconButton 
+                  size="small" 
+                  onClick={handleCloseTooltip}
+                  sx={{ color: '#c0c0c0' }} // light gray for close button
+                >
+                  <CloseOutlinedIcon />
+                </IconButton>
+              </div>
+            </div>
+
+
             {/* Renders "Loading" or "No Data" summary if it exists */}
             {tooltipData.summary && (
                 <span style={{ display: "block", fontSize: "14px", color: "#bdc3c7", textAlign: "center" }}>
@@ -156,16 +222,18 @@ export default function Map({ activeIssue }) {
 
             {/* Looping through JSON data to create headers and paragraphs */}
             {Object.entries(tooltipData).map(([key, value]) => {
-              if (["name", "country_name", "iso3_code", "summary"].includes(key)) { // <- skip these keys 
+              if (["name", "country_name", "summary"].includes(key)) { // <- skip these keys 
                 return null;
               }
 
               return (
                   <div key={key}>
+                    
                       {/* Header */}
                       <strong style={{ color: "#000080", fontSize: "14px", display: "block", marginBottom: "4px" }}>
                           {formatHeader(key)}:
                       </strong>
+
                       {/* Text Body */}
                       <span style={{ fontSize: "13px", color: "#ecf0f1", lineHeight: "1.5", display: "block" }}>
                           {value}
