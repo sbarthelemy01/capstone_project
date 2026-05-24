@@ -80,6 +80,64 @@ app.post('/api/login', async (req, res) => {
 });
 
 
+// middleware function to verify user authentication using JWT token
+const authenticateToken = (req, res, next) => {
+    const authHeader = req.headers['authorization'];
+    const token = authHeader && authHeader.split(' ')[1]; // extracts token from "Bearer <token>"
+
+    if (!token) return res.status(401).json({ message: "Access denied" });
+
+    jwt.verify(token, process.env.SECRET_KEY, (err, user) => {
+        if (err) 
+            return res.status(403).json({ message: "Invalid token" });
+        req.user = user; // attach user info from token to request object for use in route handlers
+        next();
+    });
+};
+
+// route to add/remove a country to/from user's favorites list in their profile
+app.post('/api/favorites', authenticateToken, async (req, res) => {
+    const { issue, countryName, data } = req.body;
+
+    try {
+        const user = await User.findById(req.user.id);
+        
+        // Check if this country/issue combo is already in user's favorites
+        const existingFavIndex = user.favorites.findIndex(
+            fav => fav.issue === issue && fav.countryName === countryName
+        );
+
+        if (existingFavIndex >= 0) {
+            // if it exists, remove it from favorites
+            user.favorites.splice(existingFavIndex, 1);
+            await user.save();
+            return res.json({ message: "Removed from favorites", status: "removed" });
+        } else {
+            // if it doesn't exist, add it to favorites
+            user.favorites.push({ issue, countryName, data });
+            await user.save();
+            return res.json({ message: "Added to favorites", status: "added" });
+        }
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Error updating favorites" });
+    }
+});
+
+//route to get the user's favorites list (in the backend) to be displayed in their profile page (frontend)
+app.get('/api/favorites', authenticateToken, async (req, res) => {
+    try {
+        const user = await User.findById(req.user.id);
+        // using reverse function to show recently added items first
+        res.json(user.favorites.reverse()); 
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Error fetching favorites" });
+    }
+});
+
+
+
 // API endpoint to get data for a specific country and issue
 app.get('/api/issues/:issueName/countries/:countryCode', (req, res) => {
     const { issueName, countryCode } = req.params;

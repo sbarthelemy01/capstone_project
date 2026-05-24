@@ -14,6 +14,19 @@ const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 
 //helper function to change JSON keys into readable headers (popup window). ex: environmental_impact -> Environmental Impact
 const formatHeader = (key) => {
+
+    //any keys ending with "_summary" will be renamed to "Overview"
+    if (key.endsWith('_summary')) {
+        return "Overview";
+    }
+
+    // for the population keys, format the year in ()
+    if (key.startsWith('population_')) {
+        const year = key.split('_')[1]; 
+        return `Population (${year})`;
+    }
+
+    //default formatting
     return key
       .split('_')
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
@@ -192,7 +205,7 @@ export default function Map({ activeIssue }) {
               
               {/* icon group in tooltip */}
               <div style={{ display: "flex", gap: "4px" }}>
-                <Tooltip id="fav-tooltip" place="top" content="Save to Favorites" />
+                <Tooltip id="fav-tooltip" place="top" content="Add to Favorites" />
                 <IconButton 
                   size="small" 
                   data-tooltip-id="fav-tooltip"
