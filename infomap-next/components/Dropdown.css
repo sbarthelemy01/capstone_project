@@ -1,0 +1,23 @@
+.header-container {
+    position: absolute;
+    width: 100%;
+    padding: 45px;
+}
+
+.dropdown {
+    display: flex;
+    justify-content: center;
+}
+
+.style-select {
+    width: 400px;
+}
+
+.profile {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+
+
+

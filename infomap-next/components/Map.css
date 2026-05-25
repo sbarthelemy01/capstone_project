@@ -1,0 +1,19 @@
+.map-container {
+  height: 80vh;
+  width: 100%;
+
+  position: fixed; 
+  bottom: 0;
+  left: 0;
+
+
+  /*pushing map to bottom of the window*/
+  display: flex;
+  justify-content: center;
+  align-items: flex-end; 
+}
+
+.map-container svg {
+  max-height: 100%;
+  width: 100%;
+}

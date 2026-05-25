@@ -156,7 +156,7 @@ app.get('/api/issues/:issueName/countries/:countryCode', (req, res) => {
         }
 
         const parsedData = JSON.parse(data);
-        const countryData = parsedData[countryCode]; // Find the specific country by
+        const countryData = parsedData[countryCode]; // Find the specific country by its code
 
         //if no data for that country, send back 404 with message
         if (!countryData) {

@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useEffect } from 'react';
 import Autocomplete from '@mui/material/Autocomplete';
 import TextField from '@mui/material/TextField';
@@ -54,10 +56,15 @@ function Dropdown({ activeIssue, setActiveIssue }) {
 
   // Check if user is already logged in when the app loads
   useEffect(() => {
-    const token = localStorage.getItem('token');
-    if (token) {
-      setIsLoggedIn(true);
-    }
+    const timer = setTimeout(() => {
+      const token = localStorage.getItem('token');
+      if (token) {
+        setIsLoggedIn(true);
+      }
+    }, 0);
+
+    // cleanup function
+    return () => clearTimeout(timer);
   }, []);
 
   const handleMenuOpen = (event) => setAnchorEl(event.currentTarget); // anchors the menu to the profile icon when clicked
@@ -256,8 +263,11 @@ function Dropdown({ activeIssue, setActiveIssue }) {
                     
                     {/* Issue - Country Title */}
                     <ListItemText 
-                      primary={`${fav.issue} - ${fav.countryName}`}
-                      primaryTypographyProps={{ fontWeight: 'bold', color: '#000080', mb: 1 }}
+                      primary={
+                        <Typography sx={{ fontWeight: 'bold', color: '#000080', mb: 1 }}>
+                          {`${fav.issue} - ${fav.countryName}`}
+                        </Typography>
+                      }
                     />
                     
                     {/* Shows snippet of summary data saved from the map */}
